@@ -1,0 +1,655 @@
+name,ideology_name,state_name,city_name,ein,statewide,lat,long,NAME,STATEFP,COUNTYFP,county_fips,county_name,source_match,final_status,type,state_fips,city_clean
+11th Hour Remnant Messenger,Christian Identity,Idaho,Sandpoint,NA,TRUE,48.2761306,-116.5487835,Bonner,16,017,16017,Bonner,city_geocode,matched,NA,NA,NA
+14 Words Press,White Nationalist,Idaho,St. Maries,NA,TRUE,47.3143542,-116.562667,Benewah,16,009,16009,Benewah,city_geocode,matched,NA,NA,NA
+88 Enterprises,General Hate,Ohio,Canton,NA,TRUE,40.7985464,-81.3749508,Stark,39,151,39151,Stark,city_geocode,matched,NA,NA,NA
+Alabama White Knights of the KKK,Ku Klux Klan,Alabama,Anniston,NA,TRUE,33.6624824,-85.8283224,Calhoun,01,015,01015,Calhoun,city_geocode,matched,NA,NA,NA
+Alabama White Knights of the KKK,Ku Klux Klan,Alabama,Ashville,NA,TRUE,33.8369216,-86.2549799,St. Clair,01,115,01115,St. Clair,city_geocode,matched,NA,NA,NA
+Alabama White Knights of the KKK,Ku Klux Klan,Alabama,Birmingham,NA,TRUE,33.5206824,-86.8024326,Jefferson,01,073,01073,Jefferson,city_geocode,matched,NA,NA,NA
+Alabama White Knights of the KKK,Ku Klux Klan,Alabama,Clanton,NA,TRUE,32.8392013,-86.6309229,Chilton,01,021,01021,Chilton,city_geocode,matched,NA,NA,NA
+Alabama White Knights of the KKK,Ku Klux Klan,Alabama,Pelham,NA,TRUE,33.285669,-86.8099884,Shelby,01,117,01117,Shelby,city_geocode,matched,NA,NA,NA
+Alabama White Knights of the KKK,Ku Klux Klan,Alabama,Shelby,NA,TRUE,33.110396,-86.584149,Shelby,01,117,01117,Shelby,city_geocode,matched,NA,NA,NA
+Alabama White Knights of the KKK,Ku Klux Klan,Alabama,Sylacauga,NA,TRUE,33.170482,-86.2514099,Talladega,01,121,01121,Talladega,city_geocode,matched,NA,NA,NA
+Alabama White Knights of the KKK,Ku Klux Klan,Alabama,Wilton,NA,TRUE,33.0787308,-86.8816562,Shelby,01,117,01117,Shelby,city_geocode,matched,NA,NA,NA
+America's Invisible Empire Knights of the KKK,Christian Identity,Alabama,Hartselle,NA,TRUE,34.4434282,-86.9352842,Morgan,01,103,01103,Morgan,city_geocode,matched,NA,NA,NA
+America's Promise Ministries,Christian Identity,Idaho,Sandpoint,NA,TRUE,48.2761306,-116.5487835,Bonner,16,017,16017,Bonner,city_geocode,matched,NA,NA,NA
+American Friends of the British National Party,General Hate,Virginia,Falls Church,NA,TRUE,38.882334,-77.1710914,Falls Church,51,610,51610,Falls Church,city_geocode,matched,NA,NA,NA
+American Front,Racist Skinhead,Pennsylvania,Philadelphia,NA,TRUE,39.9527237,-75.1635262,Philadelphia,42,101,42101,Philadelphia,city_geocode,matched,NA,NA,NA
+American Immigration Control Foundation / Americans for Immigration Control,Anti-Immigrant,Virginia,Monterey,NA,TRUE,38.411985,-79.5794666,Highland,51,091,51091,Highland,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Oklahoma,Watts,NA,TRUE,36.1092487,-94.5702202,Adair,40,001,40001,Adair,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Indiana,Butler,NA,TRUE,41.4297694,-84.8713507,DeKalb,18,033,18033,DeKalb,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Louisiana,Welsh,NA,TRUE,30.2368977,-92.8221303,Jefferson Davis,22,053,22053,Jefferson Davis,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Arkansas,Cedarville,NA,TRUE,35.5698087,-94.3668792,Crawford,05,033,05033,Crawford,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Virginia,Woodbridge,NA,TRUE,38.6626561,-77.2530729,Prince William,51,153,51153,Prince William,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Pennsylvania,Cokeburg,NA,TRUE,40.1011832,-80.0672766,Washington,42,125,42125,Washington,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Oklahoma,Collinsville,NA,TRUE,36.3661205,-95.8398108,Tulsa,40,143,40143,Tulsa,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Texas,Conroe,NA,TRUE,30.3118769,-95.4560512,Montgomery,48,339,48339,Montgomery,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Indiana,Goshen,NA,TRUE,41.5850394,-85.8344491,Elkhart,18,039,18039,Elkhart,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Texas,Mauriceville,NA,TRUE,30.2074225,-93.8747976,Orange,48,361,48361,Orange,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Tennessee,Memphis,NA,TRUE,35.1460249,-90.0517638,Shelby,47,157,47157,Shelby,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,New York,Newburgh,NA,TRUE,41.5000767,-74.0098299,Orange,36,071,36071,Orange,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Missouri,Nixa,NA,TRUE,37.0433856,-93.2986635,Christian,29,043,29043,Christian,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Florida,Orlando,NA,TRUE,28.5421218,-81.379045,Orange,12,095,12095,Orange,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Texas,Riesel,NA,TRUE,31.4748811,-96.9243288,McLennan,48,309,48309,McLennan,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Texas,San Antonio,NA,TRUE,29.4246002,-98.4951405,Bexar,48,029,48029,Bexar,city_geocode,matched,NA,NA,NA
+American Knights of the Ku Klux Klan,Ku Klux Klan,Texas,Victoria,NA,TRUE,28.7997547,-97.0064246,Victoria,48,469,48469,Victoria,city_geocode,matched,NA,NA,NA
+American Nazi Party,Neo-Nazi,Michigan,Eastpointe,NA,TRUE,42.4683698,-82.9554746,Macomb,26,099,26099,Macomb,city_geocode,matched,NA,NA,NA
+American Patrol/Voice of Citizens Together,Anti-Immigrant,California,Sherman Oaks,NA,TRUE,34.1508718,-118.448986,Los Angeles,06,037,06037,Los Angeles,city_geocode,matched,NA,NA,NA
+American Renaissance/New Century Foundation,White Nationalist,Virginia,Oakton,NA,TRUE,38.8810678,-77.3008453,Fairfax,51,059,51059,Fairfax,city_geocode,matched,NA,NA,NA
+American Third Position,White Nationalist,Colorado,Arvada,NA,TRUE,39.8005505,-105.0811573,Jefferson,08,059,08059,Jefferson,city_geocode,matched,NA,NA,NA
+Americans for Self Determination,White Nationalist,District of Columbia,Washington,NA,TRUE,38.8950982,-77.0363849,District of Columbia,11,001,11001,District of Columbia,city_geocode,matched,NA,NA,NA
+Artisan Publishers,General Hate,Oklahoma,Muskogee,NA,TRUE,35.7478769,-95.3696909,Muskogee,40,101,40101,Muskogee,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,Massachusetts,Gardner,NA,TRUE,42.5763523,-71.9952737,Worcester,25,027,25027,Worcester,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,Ohio,Louisville,NA,TRUE,40.8375307,-81.2595731,Stark,39,151,39151,Stark,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,Arkansas,Marmaduke,NA,TRUE,36.1883295,-90.3854641,Greene,05,055,05055,Greene,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,Wisconsin,Milwaukee,NA,TRUE,43.0386475,-87.9090751,Milwaukee,55,079,55079,Milwaukee,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,South Carolina,North Charleston,NA,TRUE,32.8546197,-79.9748103,Charleston,45,019,45019,Charleston,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,Washington,Seattle,NA,TRUE,47.6038321,-122.330062,King,53,033,53033,King,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,Florida,Tampa,NA,TRUE,27.9449854,-82.4583107,Hillsborough,12,057,12057,Hillsborough,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,Alabama,Troy,NA,TRUE,31.8087678,-85.969951,Pike,01,109,01109,Pike,city_geocode,matched,NA,NA,NA
+Aryan Action,Racist Skinhead,California,Yucaipa,NA,TRUE,34.033625,-117.0430865,San Bernardino,06,071,06071,San Bernardino,city_geocode,matched,NA,NA,NA
+Aryan Christian Knights of the Ku Klux Klan,Ku Klux Klan,North Carolina,Browns Summit,NA,TRUE,36.2126351,-79.7136413,Guilford,37,081,37081,Guilford,city_geocode,matched,NA,NA,NA
+Aryan Covenant Church/ACC Services,Christian Identity,Texas,Anderson,NA,TRUE,30.487147,-95.9868986,Grimes,48,185,48185,Grimes,city_geocode,matched,NA,NA,NA
+Aryan Knights of the Confederacy Ku Klux Klan,Ku Klux Klan,Ohio,Bellefontaine,NA,TRUE,40.3611643,-83.7596557,Logan,39,091,39091,Logan,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,South Dakota,Rapid City,NA,TRUE,44.0806041,-103.228023,Pennington,46,103,46103,Pennington,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Nevada,Reno,NA,TRUE,39.5261788,-119.812658,Washoe,32,031,32031,Washoe,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Minnesota,Saint Paul,NA,TRUE,44.9497487,-93.0931028,Ramsey,27,123,27123,Ramsey,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Maryland,Bryans Road,NA,TRUE,38.6270623,-77.0730325,Charles,24,017,24017,Charles,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,New York,Wantagh,NA,TRUE,40.6837121,-73.5101258,Nassau,36,059,36059,Nassau,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Florida,Casselberry,NA,TRUE,28.6714702,-81.3382005,Seminole,12,117,12117,Seminole,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Ohio,Dayton,NA,TRUE,39.7589478,-84.1916069,Montgomery,39,113,39113,Montgomery,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Tennessee,Woodlawn,NA,TRUE,36.5441708,-87.5107638,Montgomery,47,125,47125,Montgomery,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Colorado,De Beque,NA,TRUE,39.3347752,-108.215286,Mesa,08,077,08077,Mesa,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Pennsylvania,Easton,NA,TRUE,40.6916081,-75.2099866,Northampton,42,095,42095,Northampton,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Idaho,Hayden,NA,TRUE,47.7590638,-116.7866807,Kootenai,16,055,16055,Kootenai,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Texas,Huffman,NA,TRUE,30.0271626,-95.0857627,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Pennsylvania,Leola,NA,TRUE,40.087875,-76.1849534,Lancaster,42,071,42071,Lancaster,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,California,Long Beach,NA,TRUE,33.7690164,-118.191604,Los Angeles,06,037,06037,Los Angeles,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Ohio,Marion,NA,TRUE,40.5886259,-83.1287349,Marion,39,101,39101,Marion,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Wisconsin,Mercer,NA,TRUE,46.165642,-90.0633148,Iron,55,051,55051,Iron,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Minnesota,New Brighton,NA,TRUE,45.0628999,-93.2060969,Ramsey,27,123,27123,Ramsey,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,New Jersey,North Bergen,NA,TRUE,40.8042674,-74.012084,Hudson,34,017,34017,Hudson,city_geocode,matched,NA,NA,NA
+Aryan Nations,Neo-Nazi,Nebraska,Omaha,NA,TRUE,41.2587459,-95.9383758,Douglas,31,055,31055,Douglas,city_geocode,matched,NA,NA,NA
+Bayou Knights of the KKK,Ku Klux Klan,Mississippi,Brookhaven,NA,TRUE,31.5790667,-90.4407122,Lincoln,28,085,28085,Lincoln,city_geocode,matched,NA,NA,NA
+Bayou Knights of the KKK,Ku Klux Klan,Louisiana,Homer,NA,TRUE,32.7918133,-93.055718,Claiborne,22,027,22027,Claiborne,city_geocode,matched,NA,NA,NA
+Blood and Honour,Racist Skinhead,Georgia,Powder Springs,NA,TRUE,33.8595492,-84.683824,Cobb,13,067,13067,Cobb,city_geocode,matched,NA,NA,NA
+Blood and Honour,Racist Skinhead,Texas,Richardson,NA,TRUE,32.9481789,-96.7297206,Dallas,48,113,48113,Dallas,city_geocode,matched,NA,NA,NA
+Blood and Honour,Racist Skinhead,Ohio,Salem,NA,TRUE,40.9008923,-80.8567502,Columbiana,39,029,39029,Columbiana,city_geocode,matched,NA,NA,NA
+By Yahweh's Design,Christian Identity,Michigan,Stevensville,NA,TRUE,42.0144871,-86.5194654,Berrien,26,021,26021,Berrien,city_geocode,matched,NA,NA,NA
+Celtic Knights,Racist Skinhead,Texas,Austin,NA,TRUE,30.2711286,-97.7436995,Travis,48,453,48453,Travis,city_geocode,matched,NA,NA,NA
+Central New York White Pride,Neo-Nazi,New York,Syracuse,NA,TRUE,43.0481221,-76.1474244,Onondaga,36,067,36067,Onondaga,city_geocode,matched,NA,NA,NA
+Christian Crusade for Truth,Christian Identity,New Mexico,Deming,NA,TRUE,32.2627416,-107.7581979,Luna,35,029,35029,Luna,city_geocode,matched,NA,NA,NA
+Christian Defense League,Neo-Nazi,Louisiana,Arabi,NA,TRUE,29.9543702,-90.0053477,St. Bernard,22,087,22087,St. Bernard,city_geocode,matched,NA,NA,NA
+Christian House Ministries,Christian Identity,Florida,Largo,NA,TRUE,27.9094665,-82.7873244,Pinellas,12,103,12103,Pinellas,city_geocode,matched,NA,NA,NA
+Christian Research,Christian Identity,Arkansas,Eureka Springs,NA,TRUE,36.4000796,-93.7392419,Carroll,05,015,05015,Carroll,city_geocode,matched,NA,NA,NA
+Christian Separatist Church Society,Christian Identity,Tennessee,Kodak,NA,TRUE,35.9745323,-83.6268396,Sevier,47,155,47155,Sevier,city_geocode,matched,NA,NA,NA
+Church of Israel,Christian Identity,Missouri,Schell City,NA,TRUE,38.0200316,-94.1157777,Vernon,29,217,29217,Vernon,city_geocode,matched,NA,NA,NA
+Confederate Crusaders,Ku Klux Klan,Louisiana,Homer,NA,TRUE,32.7918133,-93.055718,Claiborne,22,027,22027,Claiborne,city_geocode,matched,NA,NA,NA
+Confederate Knights of the KKK,Ku Klux Klan,North Carolina,Henderson,NA,TRUE,36.3273648,-78.4027265,Vance,37,181,37181,Vance,city_geocode,matched,NA,NA,NA
+Confederate Knights of the KKK,Ku Klux Klan,Kentucky,Lexington,NA,TRUE,38.0464066,-84.4970393,Fayette,21,067,21067,Fayette,city_geocode,matched,NA,NA,NA
+"Conservative Citizens Foundation, Inc.",White Nationalist,Missouri,Bridgeton,NA,TRUE,38.7566055,-90.42352,St. Louis,29,189,29189,St. Louis,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Alabama,Montgomery,NA,TRUE,32.3777111,-86.3090775,Montgomery,01,101,01101,Montgomery,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Illinois,Chicago,NA,TRUE,41.8755616,-87.6244212,Cook,17,031,17031,Cook,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,North Carolina,Morganton,NA,TRUE,35.7454291,-81.6870837,Burke,37,023,37023,Burke,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,North Carolina,Clemmons,NA,TRUE,36.0215258,-80.3819984,Forsyth,37,067,37067,Forsyth,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,New York,New York,NA,TRUE,40.7127281,-74.0060152,New York,36,061,36061,New York,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Tennessee,Cleveland,NA,TRUE,35.1595182,-84.8766115,Bradley,47,011,47011,Bradley,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Indiana,Paragon,NA,TRUE,39.3950468,-86.562499,Morgan,18,109,18109,Morgan,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Georgia,Dalton,NA,TRUE,34.7691867,-84.9702475,Whitfield,13,313,13313,Whitfield,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,North Carolina,Raleigh,NA,TRUE,35.7803977,-78.6390989,Wake,37,183,37183,Wake,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,California,Sacramento,NA,TRUE,38.5810606,-121.493895,Sacramento,06,067,06067,Sacramento,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Virginia,Falls Church,NA,TRUE,38.882334,-77.1710914,Falls Church,51,610,51610,Falls Church,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,South Carolina,Spartanburg,NA,TRUE,34.9498007,-81.9320157,Spartanburg,45,083,45083,Spartanburg,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,New Jersey,Fort Lee,NA,TRUE,40.8509333,-73.9701382,Bergen,34,003,34003,Bergen,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Missouri,St. Louis,NA,TRUE,38.6254063,-90.190009,St. Louis,29,510,29510,St. Louis,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Ohio,Grove City,NA,TRUE,39.8814519,-83.0929645,Franklin,39,049,39049,Franklin,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Ohio,Sterling,NA,TRUE,40.9675552,-81.8484705,Wayne,39,169,39169,Wayne,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Mississippi,Jackson,NA,TRUE,32.2998686,-90.1830408,Hinds,28,049,28049,Hinds,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Florida,Tallahassee,NA,TRUE,30.4380832,-84.2809332,Leon,12,073,12073,Leon,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Florida,Jacksonville,NA,TRUE,30.3262247,-81.6579179,Duval,12,031,12031,Duval,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Georgia,Atlanta,NA,TRUE,33.7544657,-84.3898151,Fulton,13,121,13121,Fulton,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Alabama,Jasper,NA,TRUE,33.8312185,-87.2775053,Walker,01,127,01127,Walker,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Virginia,Tappahannock,NA,TRUE,37.9283181,-76.8600383,Essex,51,057,51057,Essex,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Louisiana,Baton Rouge,NA,TRUE,30.4494155,-91.1869659,East Baton Rouge,22,033,22033,East Baton Rouge,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Tennessee,Knoxville,NA,TRUE,35.9603948,-83.9210261,Knox,47,093,47093,Knox,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Mississippi,Vaiden,NA,TRUE,33.3320701,-89.7411934,Carroll,28,015,28015,Carroll,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Alabama,Birmingham,NA,TRUE,33.5206824,-86.8024326,Jefferson,01,073,01073,Jefferson,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Iowa,Le Claire,NA,TRUE,41.5986442,-90.3434618,Scott,19,163,19163,Scott,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,South Carolina,West Columbia,NA,TRUE,33.991869,-81.0640341,Lexington,45,063,45063,Lexington,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Arkansas,Little Rock,NA,TRUE,34.7465071,-92.2896267,Pulaski,05,119,05119,Pulaski,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Tennessee,Chattanooga,NA,TRUE,35.0457219,-85.3094883,Hamilton,47,065,47065,Hamilton,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,Alabama,Mobile,NA,TRUE,30.6913462,-88.0437509,Mobile,01,097,01097,Mobile,city_geocode,matched,NA,NA,NA
+Crusade for Christ,Christian Identity,Arkansas,North Little Rock,NA,TRUE,34.769536,-92.2670941,Pulaski,05,119,05119,Pulaski,city_geocode,matched,NA,NA,NA
+Diehard Records,Hate Music,Ohio,Chesapeake,NA,TRUE,38.4280541,-82.4572416,Lawrence,39,087,39087,Lawrence,city_geocode,matched,NA,NA,NA
+East Side White Pride,Racist Skinhead,Oregon,Portland,NA,TRUE,45.5202471,-122.674194,Multnomah,41,051,41051,Multnomah,city_geocode,matched,NA,NA,NA
+Elohim City,Christian Identity,Oklahoma,Muldrow,NA,TRUE,35.4062034,-94.5988306,Sequoyah,40,135,40135,Sequoyah,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Arizona,Peoria,NA,TRUE,33.5806115,-112.237294,Maricopa,04,013,04013,Maricopa,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Pennsylvania,Philadelphia,NA,TRUE,39.9527237,-75.1635262,Philadelphia,42,101,42101,Philadelphia,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Virginia,Richmond,NA,TRUE,37.5385087,-77.43428,Richmond,51,760,51760,Richmond,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Wyoming,Cheyenne,NA,TRUE,41.139981,-104.820246,Laramie,56,021,56021,Laramie,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Missouri,St. Louis,NA,TRUE,38.6254063,-90.190009,St. Louis,29,510,29510,St. Louis,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Alabama,Childersburg,NA,TRUE,33.2781686,-86.3549774,Talladega,01,121,01121,Talladega,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Florida,Tampa,NA,TRUE,27.9449854,-82.4583107,Hillsborough,12,057,12057,Hillsborough,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Ohio,Cleveland,NA,TRUE,41.4996574,-81.6936772,Cuyahoga,39,035,39035,Cuyahoga,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,New York,Walden,NA,TRUE,41.5612048,-74.1884806,Orange,36,071,36071,Orange,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Texas,Houston,NA,TRUE,29.7589382,-95.3676974,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Florida,West Palm Beach,NA,TRUE,26.715364,-80.0532942,Palm Beach,12,099,12099,Palm Beach,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Texas,Irving,NA,TRUE,32.8295183,-96.9442177,Dallas,48,113,48113,Dallas,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Florida,Jacksonville,NA,TRUE,30.3262247,-81.6579179,Duval,12,031,12031,Duval,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Illinois,Joliet,NA,TRUE,41.5263603,-88.0840212,Will,17,197,17197,Will,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Missouri,Kansas City,NA,TRUE,39.100105,-94.5781416,Jackson,29,095,29095,Jackson,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Kentucky,Louisville,NA,TRUE,38.2542376,-85.759407,Jefferson,21,111,21111,Jefferson,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Louisiana,Mandeville,NA,TRUE,30.3582305,-90.0657477,St. Tammany,22,103,22103,St. Tammany,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,California,Novato,NA,TRUE,38.1061979,-122.5681191,Marin,06,041,06041,Marin,city_geocode,matched,NA,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Washington,Olympia,NA,TRUE,47.0451022,-122.8950075,Thurston,53,067,53067,Thurston,city_geocode,matched,NA,NA,NA
+Fellowship of God's Covenant People,Christian Identity,Kentucky,Burlington,NA,TRUE,39.02756,-84.7241133,Boone,21,015,21015,Boone,city_geocode,matched,NA,NA,NA
+Free Knights of the KKK,Ku Klux Klan,Georgia,Hiram,NA,TRUE,33.8756601,-84.7621592,Paulding,13,223,13223,Paulding,city_geocode,matched,NA,NA,NA
+Free Knights of the KKK,Ku Klux Klan,North Carolina,Madison,NA,TRUE,36.385422,-79.9594689,Rockingham,37,157,37157,Rockingham,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Corinth,NA,TRUE,34.9343599,-88.5223353,Alcorn,28,003,28003,Alcorn,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Mendenhall,NA,TRUE,31.9622006,-89.8702079,Simpson,28,127,28127,Simpson,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Fulton,NA,TRUE,34.2739933,-88.4092133,Itawamba,28,057,28057,Itawamba,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Oxford,NA,TRUE,34.3663773,-89.5187664,Lafayette,28,071,28071,Lafayette,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Senatobia,NA,TRUE,34.6187807,-89.9646282,Tate,28,137,28137,Tate,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Southhaven,NA,TRUE,34.9917606,-90.1275934,DeSoto,28,033,28033,DeSoto,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Tunica,NA,TRUE,34.6845102,-90.382877,Tunica,28,143,28143,Tunica,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Tupelo,NA,TRUE,34.2576067,-88.7033859,Lee,28,081,28081,Lee,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Walnut,NA,TRUE,34.9485431,-88.9020767,Tippah,28,139,28139,Tippah,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Wiggins,NA,TRUE,30.858244,-89.1353283,Stone,28,131,28131,Stone,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Laurel,NA,TRUE,31.6940509,-89.1306124,Jones,28,067,28067,Jones,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Gulfport,NA,TRUE,30.3674198,-89.0928155,Harrison,28,047,28047,Harrison,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Baldwyn,NA,TRUE,34.509544,-88.6353313,Prentiss,28,117,28117,Prentiss,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Hickory Flat,NA,TRUE,34.6159327,-89.188404,Benton,28,009,28009,Benton,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Byhalia,NA,TRUE,34.8723179,-89.6906396,Marshall,28,093,28093,Marshall,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Iuka,NA,TRUE,34.8117565,-88.1900415,Tishomingo,28,141,28141,Tishomingo,city_geocode,matched,NA,NA,NA
+FreeMississippi,Neo-Confederate,Mississippi,Macon,NA,TRUE,33.1054039,-88.5608767,Noxubee,28,103,28103,Noxubee,city_geocode,matched,NA,NA,NA
+German American Nationalist PAC,Neo-Nazi,Florida,Pensacola,NA,TRUE,30.421309,-87.2169149,Escambia,12,033,12033,Escambia,city_geocode,matched,NA,NA,NA
+Gospel Broadcasting Association,Christian Identity,Texas,Houston,NA,TRUE,29.7589382,-95.3676974,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+Gospel Ministries,Christian Identity,Idaho,Boise,NA,TRUE,43.6166163,-116.200886,Ada,16,001,16001,Ada,city_geocode,matched,NA,NA,NA
+Gospel of Christ Kingdom Church,Christian Identity,Idaho,Hayden Lake,NA,TRUE,47.7587944,-116.756857,Kootenai,16,055,16055,Kootenai,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,New Jersey,Harrison,NA,TRUE,40.7464901,-74.1562551,Hudson,34,017,34017,Hudson,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,California,Hemet,NA,TRUE,33.7475203,-116.9719684,Riverside,06,065,06065,Riverside,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Florida,Jacksonville,NA,TRUE,30.3262247,-81.6579179,Duval,12,031,12031,Duval,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Nevada,Las Vegas,NA,TRUE,36.1674263,-115.1484131,Clark,32,003,32003,Clark,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Arizona,Mesa,NA,TRUE,33.4151005,-111.831455,Maricopa,04,013,04013,Maricopa,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Michigan,Rochester,NA,TRUE,42.680588,-83.1338214,Oakland,26,125,26125,Oakland,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,California,San Diego,NA,TRUE,32.7174202,-117.162772,San Diego,06,073,06073,San Diego,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Missouri,Springfield,NA,TRUE,37.2081729,-93.2922715,Greene,29,077,29077,Greene,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Washington,Vancouver,NA,TRUE,45.6306954,-122.6744557,Clark,53,011,53011,Clark,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Kansas,Wichita,NA,TRUE,37.6922361,-97.3375448,Sedgwick,20,173,20173,Sedgwick,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Delaware,Wilmington,NA,TRUE,39.7459468,-75.546589,New Castle,10,003,10003,New Castle,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Maryland,Baltimore,NA,TRUE,39.2908816,-76.610759,Baltimore,24,510,24510,Baltimore,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Oregon,Clackamas,NA,TRUE,45.4146516,-122.5532561,Clackamas,41,005,41005,Clackamas,city_geocode,matched,NA,NA,NA
+Hammerskin Nation,Racist Skinhead,Texas,Dallas,NA,TRUE,32.7762719,-96.7968559,Dallas,48,113,48113,Dallas,city_geocode,matched,NA,NA,NA
+House of David,Black Separatist,New York,New York,NA,TRUE,40.7127281,-74.0060152,New York,36,061,36061,New York,city_geocode,matched,NA,NA,NA
+House of Yahweh,Christian Identity,Tennessee,New Tazewell,NA,TRUE,36.4425828,-83.5996306,Claiborne,47,025,47025,Claiborne,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Florida,Crestview,NA,TRUE,30.7621326,-86.5705084,Okaloosa,12,091,12091,Okaloosa,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Kentucky,Dayton,NA,TRUE,39.1128377,-84.4727198,Campbell,21,037,21037,Campbell,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Wisconsin,Westfield,NA,TRUE,43.8856953,-89.493266,Marquette,55,077,55077,Marquette,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Louisiana,Downsville,NA,TRUE,32.6264352,-92.412908,Union,22,111,22111,Union,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Arkansas,El Dorado,NA,TRUE,33.2115087,-92.6650144,Union,05,139,05139,Union,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Ohio,Elyria,NA,TRUE,41.3673191,-82.1073583,Lorain,39,093,39093,Lorain,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Indiana,Indianapolis,NA,TRUE,39.7683331,-86.1583502,Marion,18,097,18097,Marion,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Kansas,Lakin,NA,TRUE,37.9405751,-101.254892,Kearny,20,093,20093,Kearny,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Illinois,Litchfield,NA,TRUE,39.1768621,-89.655615,Montgomery,17,135,17135,Montgomery,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Arkansas,Magnolia,NA,TRUE,33.2670725,-93.2393341,Columbia,05,027,05027,Columbia,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Missouri,Mapaville,NA,TRUE,38.248944,-90.4834566,Jefferson,29,099,29099,Jefferson,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Tennessee,Nashville,NA,TRUE,36.1622767,-86.7742984,Davidson,47,037,47037,Davidson,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,California,Newport Beach,NA,TRUE,33.6170092,-117.9294401,Orange,06,059,06059,Orange,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Kentucky,Powderly,NA,TRUE,37.2369871,-87.1591627,Muhlenberg,21,177,21177,Muhlenberg,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Alabama,Bankston,NA,TRUE,33.6714991,-87.6714017,Fayette,01,057,01057,Fayette,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Maryland,Churchville,NA,TRUE,39.5595976,-76.2501676,Harford,24,025,24025,Harford,city_geocode,matched,NA,NA,NA
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,North Carolina,Walkertown,NA,TRUE,36.1748265,-80.1521587,Forsyth,37,067,37067,Forsyth,city_geocode,matched,NA,NA,NA
+Institute for Historical Review,Holocaust Denial,California,Newport Beach,NA,TRUE,33.6170092,-117.9294401,Orange,06,059,06059,Orange,city_geocode,matched,NA,NA,NA
+International Association of the Knights of the Ku Klux Klan,Ku Klux Klan,South Carolina,Enoree,NA,TRUE,34.6565154,-81.9650977,Spartanburg,45,083,45083,Spartanburg,city_geocode,matched,NA,NA,NA
+International Keystone Knights of the KKK,Ku Klux Klan,Pennsylvania,Johnstown,NA,TRUE,40.3267407,-78.9219698,Cambria,42,021,42021,Cambria,city_geocode,matched,NA,NA,NA
+Jewish Defense League,General Hate,California,Los Angeles,NA,TRUE,34.0536909,-118.242766,Los Angeles,06,037,06037,Los Angeles,city_geocode,matched,NA,NA,NA
+Keys to the Kingdom Church,Christian Identity,Florida,St. Augustine,NA,TRUE,29.8946952,-81.3145395,St. Johns,12,109,12109,St. Johns,city_geocode,matched,NA,NA,NA
+Kingdom Identity Ministries,Christian Identity,Arkansas,Harrison,NA,TRUE,36.2297936,-93.1076765,Boone,05,009,05009,Boone,city_geocode,matched,NA,NA,NA
+Kinsman Redeemer Ministries,Christian Identity,Washington,Tacoma,NA,TRUE,47.2455013,-122.438329,Pierce,53,053,53053,Pierce,city_geocode,matched,NA,NA,NA
+Knights of the Ku Klux Klan,Ku Klux Klan,Arkansas,Harrison,NA,TRUE,36.2297936,-93.1076765,Boone,05,009,05009,Boone,city_geocode,matched,NA,NA,NA
+Knights of the Ku Klux Klan,Ku Klux Klan,Pennsylvania,Reading,NA,TRUE,40.335345,-75.9279495,Berks,42,011,42011,Berks,city_geocode,matched,NA,NA,NA
+Knights of the White Kamellia,Ku Klux Klan,Texas,Jasper,NA,TRUE,30.9201995,-93.9965759,Jasper,48,241,48241,Jasper,city_geocode,matched,NA,NA,NA
+Knights of the White Kamellia,Ku Klux Klan,Texas,Kountze,NA,TRUE,30.3715975,-94.3124116,Hardin,48,199,48199,Hardin,city_geocode,matched,NA,NA,NA
+Knights of the White Kamellia,Ku Klux Klan,Missouri,Leslie,NA,TRUE,38.4178279,-91.2320949,Franklin,29,071,29071,Franklin,city_geocode,matched,NA,NA,NA
+Knights of the White Kamellia,Ku Klux Klan,West Virginia,Salem,NA,TRUE,39.2828653,-80.5589856,Harrison,54,033,54033,Harrison,city_geocode,matched,NA,NA,NA
+Knights of the White Kamellia,Ku Klux Klan,Louisiana,Baton Rouge,NA,TRUE,30.4494155,-91.1869659,East Baton Rouge,22,033,22033,East Baton Rouge,city_geocode,matched,NA,NA,NA
+Knights of the White Kamellia,Ku Klux Klan,Illinois,Belleville,NA,TRUE,38.5135805,-89.9841627,St. Clair,17,163,17163,St. Clair,city_geocode,matched,NA,NA,NA
+Knights of the White Kamellia,Ku Klux Klan,Virginia,Chesterfield,NA,TRUE,37.3777927,-77.5046698,Chesterfield,51,041,51041,Chesterfield,city_geocode,matched,NA,NA,NA
+Knights of the White Kamellia,Ku Klux Klan,Ohio,Dayton,NA,TRUE,39.7589478,-84.1916069,Montgomery,39,113,39113,Montgomery,city_geocode,matched,NA,NA,NA
+Knights of Yahweh,Ku Klux Klan,Tennessee,Dandridge,NA,TRUE,36.0153693,-83.4148895,Jefferson,47,089,47089,Jefferson,city_geocode,matched,NA,NA,NA
+Knights of Yahweh,Ku Klux Klan,Tennessee,Morristown,NA,TRUE,36.2139814,-83.2948923,Hamblen,47,063,47063,Hamblen,city_geocode,matched,NA,NA,NA
+Land of Peace,Christian Identity,Alabama,Prattville,NA,TRUE,32.4600136,-86.4753174,Autauga,01,001,01001,Autauga,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,New York,Staten Island,NA,TRUE,40.5834557,-74.1496048,Richmond,36,085,36085,Richmond,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Kentucky,Lebanon,NA,TRUE,37.5697869,-85.2527381,Marion,21,155,21155,Marion,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Florida,Panama City,NA,TRUE,30.1586518,-85.6602936,Bay,12,005,12005,Bay,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Virginia,Fairfax,NA,TRUE,38.8462236,-77.3063733,Fairfax,51,600,51600,Fairfax,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Statesboro,NA,TRUE,32.4490141,-81.7832912,Bulloch,13,031,13031,Bulloch,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Athens,NA,TRUE,33.9597677,-83.376398,Clarke,13,059,13059,Clarke,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Alabama,York,NA,TRUE,32.4862491,-88.2964183,Sumter,01,119,01119,Sumter,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Pasadena,NA,TRUE,29.6910753,-95.2092076,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Forsyth,NA,TRUE,33.0344998,-83.9389018,Monroe,13,207,13207,Monroe,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Atlanta,NA,TRUE,33.7544657,-84.3898151,Fulton,13,121,13121,Fulton,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Florida,Yulee,NA,TRUE,30.6320594,-81.6012807,Nassau,12,089,12089,Nassau,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,North Carolina,Charlotte,NA,TRUE,35.2272086,-80.8430827,Mecklenburg,37,119,37119,Mecklenburg,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Florida,Pensacola,NA,TRUE,30.421309,-87.2169149,Escambia,12,033,12033,Escambia,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Tennessee,Franklin,NA,TRUE,35.925206,-86.8689419,Williamson,47,187,47187,Williamson,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Alabama,Auburn,NA,TRUE,32.6098566,-85.4807825,Lee,01,081,01081,Lee,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,macon,NA,TRUE,32.8406946,-83.6324022,Bibb,13,021,13021,Bibb,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,North Carolina,Greenville,NA,TRUE,35.613224,-77.3724593,Pitt,37,147,37147,Pitt,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Sumter,NA,TRUE,33.9204354,-80.3414693,Sumter,45,085,45085,Sumter,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Augusta,NA,TRUE,33.4709714,-81.9748429,Richmond,13,245,13245,Richmond,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Arkansas,Mayflower,NA,TRUE,34.9570325,-92.4273785,Faulkner,05,045,05045,Faulkner,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Virginia,Richmond,NA,TRUE,37.5385087,-77.43428,Richmond,51,760,51760,Richmond,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Surfside Beach,NA,TRUE,33.6060031,-78.9730887,Horry,45,051,45051,Horry,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Austin,NA,TRUE,30.2711286,-97.7436995,Travis,48,453,48453,Travis,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,McDonough,NA,TRUE,33.4473361,-84.1468616,Henry,13,151,13151,Henry,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Columbia,NA,TRUE,34.000754,-81.0352313,Richland,45,079,45079,Richland,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,North Carolina,Salisbury,NA,TRUE,35.6709727,-80.4742261,Rowan,37,159,37159,Rowan,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Virginia,Hanover,NA,TRUE,37.766531,-77.3702584,Hanover,51,085,51085,Hanover,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Florida,Tallahassee,NA,TRUE,30.4380832,-84.2809332,Leon,12,073,12073,Leon,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Baldwin,NA,TRUE,34.4917665,-83.5373947,Habersham,13,137,13137,Habersham,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Mississippi,Mendenhall,NA,TRUE,31.9622006,-89.8702079,Simpson,28,127,28127,Simpson,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Missouri,Columbia,NA,TRUE,38.951883,-92.3337366,Boone,29,019,29019,Boone,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Salley,NA,TRUE,33.565705,-81.3034371,Aiken,45,003,45003,Aiken,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Abbeville,NA,TRUE,34.1779495,-82.3792463,Abbeville,45,001,45001,Abbeville,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Virginia,Harrisonburg,NA,TRUE,38.4493315,-78.8688833,Harrisonburg,51,660,51660,Harrisonburg,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Alabama,Mobile,NA,TRUE,30.6913462,-88.0437509,Mobile,01,097,01097,Mobile,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Conroe,NA,TRUE,30.3118769,-95.4560512,Montgomery,48,339,48339,Montgomery,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,San Angelo,NA,TRUE,31.4649685,-100.4405094,Tom Green,48,451,48451,Tom Green,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,San Antonio,NA,TRUE,29.4246002,-98.4951405,Bexar,48,029,48029,Bexar,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Adairsville,NA,TRUE,34.3683267,-84.9349057,Bartow,13,015,13015,Bartow,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,North Carolina,Hertford,NA,TRUE,36.190158,-76.4660519,Perquimans,37,143,37143,Perquimans,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Alabama,Tuscaloosa,NA,TRUE,33.2095614,-87.5675258,Tuscaloosa,01,125,01125,Tuscaloosa,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Bamberg,NA,TRUE,33.2971012,-81.0348202,Bamberg,45,009,45009,Bamberg,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Louisiana,Monroe,NA,TRUE,32.5025471,-92.116219,Ouachita,22,073,22073,Ouachita,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Dallas,NA,TRUE,32.7762719,-96.7968559,Dallas,48,113,48113,Dallas,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,California,San Jose,NA,TRUE,37.3361663,-121.890591,Santa Clara,06,085,06085,Santa Clara,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Aiken,NA,TRUE,33.5616173,-81.7224579,Aiken,45,003,45003,Aiken,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Humble,NA,TRUE,29.9988312,-95.2621553,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Tyler,NA,TRUE,32.3512601,-95.3010624,Smith,48,423,48423,Smith,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Louisiana,Monroe,NA,TRUE,32.5025471,-92.116219,Ouachita,22,073,22073,Ouachita,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Dalton,NA,TRUE,34.7691867,-84.9702475,Whitfield,13,313,13313,Whitfield,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Alabama,Selma,NA,TRUE,32.4078632,-87.0207473,Dallas,01,047,01047,Dallas,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Alabama,Alexander City,NA,TRUE,32.944012,-85.9538532,Tallapoosa,01,123,01123,Tallapoosa,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Huntsville,NA,TRUE,30.7235263,-95.5507771,Walker,48,471,48471,Walker,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Ben Wheeler,NA,TRUE,32.4464139,-95.7041948,Van Zandt,48,467,48467,Van Zandt,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Alabama,Montgomery,NA,TRUE,32.3777111,-86.3090775,Montgomery,01,101,01101,Montgomery,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Virginia,Dayton,NA,TRUE,38.4148492,-78.9386427,Rockingham,51,165,51165,Rockingham,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Silver Creek,NA,TRUE,34.176207,-85.1613389,Floyd,13,115,13115,Floyd,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Anderson,NA,TRUE,34.5068601,-82.6506264,Anderson,45,007,45007,Anderson,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Mississippi,Jackson,NA,TRUE,32.2998686,-90.1830408,Hinds,28,049,28049,Hinds,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Newberry,NA,TRUE,34.2753247,-81.6188633,Newberry,45,071,45071,Newberry,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Virginia,Dublin,NA,TRUE,37.1046408,-80.6850558,Pulaski,51,155,51155,Pulaski,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Spartanburg,NA,TRUE,34.9498007,-81.9320157,Spartanburg,45,083,45083,Spartanburg,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Florida,Apopka,NA,TRUE,28.6732806,-81.5116471,Orange,12,095,12095,Orange,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Missouri,Joplin,NA,TRUE,37.0841838,-94.5133385,Jasper,29,097,29097,Jasper,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,West Texas,NA,TRUE,35.5519765,-100.7544156,Gray,48,179,48179,Gray,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,North Carolina,Durham,NA,TRUE,35.996653,-78.9018053,Durham,37,063,37063,Durham,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Spring/Magnolia,NA,TRUE,30.0842607,-95.5304927,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Arlington,NA,TRUE,32.7355816,-97.1071186,Tarrant,48,439,48439,Tarrant,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,North Carolina,Kingston,NA,TRUE,35.9587941,-78.5434024,Wake,37,183,37183,Wake,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Mississippi,Wiggins,NA,TRUE,30.858244,-89.1353283,Stone,28,131,28131,Stone,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Mississippi,Brandon,NA,TRUE,32.2731475,-89.9868058,Rankin,28,121,28121,Rankin,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Virginia,Norfolk,NA,TRUE,36.8493695,-76.2899539,Norfolk,51,710,51710,Norfolk,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Easley,NA,TRUE,34.8269276,-82.5817053,Pickens,45,077,45077,Pickens,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Alabama,Spruce Pine,NA,TRUE,34.3908072,-87.7295358,Franklin,01,059,01059,Franklin,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Mississippi,Laurel,NA,TRUE,31.6940509,-89.1306124,Jones,28,067,28067,Jones,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Virginia,Williamsburg,NA,TRUE,37.2708788,-76.7074042,Williamsburg,51,830,51830,Williamsburg,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Brunswick,NA,TRUE,31.1499528,-81.4914894,Glynn,13,127,13127,Glynn,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Texas,Elgin,NA,TRUE,30.3495084,-97.371118,Bastrop,48,021,48021,Bastrop,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Missouri,St. Louis,NA,TRUE,38.6254063,-90.190009,St. Louis,29,510,29510,St. Louis,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Lavonia,NA,TRUE,34.4353309,-83.1071278,Franklin,13,119,13119,Franklin,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,North Carolina,Wilmington,NA,TRUE,34.2352853,-77.9487284,New Hanover,37,129,37129,New Hanover,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,Georgia,Buchanan,NA,TRUE,33.8026048,-85.1885607,Haralson,13,143,13143,Haralson,city_geocode,matched,NA,NA,NA
+League of the South,Neo-Confederate,South Carolina,Orangeburg,NA,TRUE,33.4918203,-80.8556476,Orangeburg,45,075,45075,Orangeburg,city_geocode,matched,NA,NA,NA
+Liberty Bell Publications,Neo-Nazi,West Virginia,Reedy,NA,TRUE,38.8995287,-81.4248433,Roane,54,087,54087,Roane,city_geocode,matched,NA,NA,NA
+Lord's Work,Christian Identity,Kentucky,Louisville,NA,TRUE,38.2542376,-85.759407,Jefferson,21,111,21111,Jefferson,city_geocode,matched,NA,NA,NA
+Mission to Israel,Christian Identity,Nebraska,Scottsbluff,NA,TRUE,41.862302,-103.6627088,Scotts Bluff,31,157,31157,Scotts Bluff,city_geocode,matched,NA,NA,NA
+Mississippi White Knights of the KKK,Ku Klux Klan,Mississippi,Petal,NA,TRUE,31.3465627,-89.2600605,Forrest,28,035,28035,Forrest,city_geocode,matched,NA,NA,NA
+MSR Productions,Hate Music,Colorado,Wheat Ridge,NA,TRUE,39.766098,-105.0772063,Jefferson,08,059,08059,Jefferson,city_geocode,matched,NA,NA,NA
+Mystic Knights of the KKK,Ku Klux Klan,Michigan,Caledonia,NA,TRUE,42.7891193,-85.5163391,Kent,26,081,26081,Kent,city_geocode,matched,NA,NA,NA
+Mystic Knights of the KKK,Ku Klux Klan,Ohio,Dayton,NA,TRUE,39.7589478,-84.1916069,Montgomery,39,113,39113,Montgomery,city_geocode,matched,NA,NA,NA
+Mystic Knights of the KKK,Ku Klux Klan,Virginia,Delaplane,NA,TRUE,38.9152937,-77.9203579,Fauquier,51,061,51061,Fauquier,city_geocode,matched,NA,NA,NA
+Mystic Knights of the KKK,Ku Klux Klan,Virginia,Harrisonburg,NA,TRUE,38.4493315,-78.8688833,Harrisonburg,51,660,51660,Harrisonburg,city_geocode,matched,NA,NA,NA
+NAAWP Florida Chapter Inc.,White Nationalist,Florida,Jacksonville,NA,TRUE,30.3262247,-81.6579179,Duval,12,031,12031,Duval,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Massachusetts,Boston,NA,TRUE,42.3588336,-71.0578303,Suffolk,25,025,25025,Suffolk,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Wisconsin,Milwaukee,NA,TRUE,43.0386475,-87.9090751,Milwaukee,55,079,55079,Milwaukee,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,South Carolina,Charleston,NA,TRUE,32.7884363,-79.9399309,Charleston,45,019,45019,Charleston,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Alabama,Montgomery,NA,TRUE,32.3777111,-86.3090775,Montgomery,01,101,01101,Montgomery,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Illinois,Chicago,NA,TRUE,41.8755616,-87.6244212,Cook,17,031,17031,Cook,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,California,Compton,NA,TRUE,33.894927,-118.226624,Los Angeles,06,037,06037,Los Angeles,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Louisiana,New Orleans,NA,TRUE,29.9561422,-90.0733934,Orleans,22,071,22071,Orleans,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Texas,Dallas,NA,TRUE,32.7762719,-96.7968559,Dallas,48,113,48113,Dallas,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,New York,New York,NA,TRUE,40.7127281,-74.0060152,New York,36,061,36061,New York,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Michigan,Detroit,NA,TRUE,42.3315509,-83.046640300000007,Wayne,26,163,26163,Wayne,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,New Jersey,Newark,NA,TRUE,40.735657,-74.1723667,Essex,34,013,34013,Essex,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,North Carolina,Durham,NA,TRUE,35.996653,-78.9018053,Durham,37,063,37063,Durham,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,California,Oakland,NA,TRUE,37.8044557,-122.271356,Alameda,06,001,06001,Alameda,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Florida,Ft. Lauderdale,NA,TRUE,26.1223084,-80.1433786,Broward,12,011,12011,Broward,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Pennsylvania,Philadelphia,NA,TRUE,39.9527237,-75.1635262,Philadelphia,42,101,42101,Philadelphia,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,South Carolina,Greenville,NA,TRUE,34.851354,-82.3984882,Greenville,45,045,45045,Greenville,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Pennsylvania,Pittsburgh,NA,TRUE,40.4406968,-80.0025666,Allegheny,42,003,42003,Allegheny,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Texas,Houston,NA,TRUE,29.7589382,-95.3676974,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,California,Pomona,NA,TRUE,34.0553813,-117.7517496,Los Angeles,06,037,06037,Los Angeles,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Mississippi,Jackson,NA,TRUE,32.2998686,-90.1830408,Hinds,28,049,28049,Hinds,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Virginia,Richmond,NA,TRUE,37.5385087,-77.43428,Richmond,51,760,51760,Richmond,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Nevada,Las Vegas,NA,TRUE,36.1674263,-115.1484131,Clark,32,003,32003,Clark,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,California,San Diego,NA,TRUE,32.7174202,-117.162772,San Diego,06,073,06073,San Diego,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,California,Los Angeles,NA,TRUE,34.0536909,-118.242766,Los Angeles,06,037,06037,Los Angeles,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,California,San Francisco,NA,TRUE,37.7879363,-122.4075201,San Francisco,06,075,06075,San Francisco,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Kentucky,Louisville,NA,TRUE,38.2542376,-85.759407,Jefferson,21,111,21111,Jefferson,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Missouri,St. Louis,NA,TRUE,38.6254063,-90.190009,St. Louis,29,510,29510,St. Louis,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Georgia,Atlanta,NA,TRUE,33.7544657,-84.3898151,Fulton,13,121,13121,Fulton,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Maryland,Baltimore,NA,TRUE,39.2908816,-76.610759,Baltimore,24,510,24510,Baltimore,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Tennessee,Memphis,NA,TRUE,35.1460249,-90.0517638,Shelby,47,157,47157,Shelby,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Ohio,Toledo,NA,TRUE,41.6529143,-83.5378173,Lucas,39,095,39095,Lucas,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Alabama,Birmingham,NA,TRUE,33.5206824,-86.8024326,Jefferson,01,073,01073,Jefferson,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,Florida,Miami,NA,TRUE,25.7741566,-80.1935973,Miami-Dade,12,086,12086,Miami-Dade,city_geocode,matched,NA,NA,NA
+Nation of Islam,Black Separatist,District of Columbia,Washington,NA,TRUE,38.8950982,-77.0363849,District of Columbia,11,001,11001,District of Columbia,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Pennsylvania,Fairless Hills,NA,TRUE,40.1795537,-74.8551644,Bucks,42,017,42017,Bucks,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Massachusetts,Harwich,NA,TRUE,41.6862224,-70.0758508,Barnstable,25,001,25001,Barnstable,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,California,Alameda,NA,TRUE,37.7652076,-122.241635,Alameda,06,001,06001,Alameda,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Michigan,Portage,NA,TRUE,42.2011538,-85.5800022,Kalamazoo,26,077,26077,Kalamazoo,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Florida,Gainsville,NA,TRUE,29.6194176,-82.3601179,Alachua,12,001,12001,Alachua,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,New Jersey,Hewitt,NA,TRUE,41.1417135,-74.3101927,Passaic,34,031,34031,Passaic,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,California,Alleghany,NA,TRUE,39.4709464,-120.8435264,Sierra,06,091,06091,Sierra,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,North Carolina,Raleigh,NA,TRUE,35.7803977,-78.6390989,Wake,37,183,37183,Wake,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Maryland,Hagerstown,NA,TRUE,39.6430455,-77.7191081,Washington,24,043,24043,Washington,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,West Virginia,Hillsboro,NA,TRUE,38.1354376,-80.2131296,Pocahontas,54,075,54075,Pocahontas,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Alaska,Anchorage,NA,TRUE,61.2163129,-149.894852,Anchorage,02,020,02020,Anchorage,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Pennsylvania,Reading,NA,TRUE,40.335345,-75.9279495,Berks,42,011,42011,Berks,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Virginia,Hardy,NA,TRUE,37.2318062,-79.8105908,Bedford,51,019,51019,Bedford,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Texas,Houston,NA,TRUE,29.7589382,-95.3676974,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Georgia,Atlanta,NA,TRUE,33.7544657,-84.3898151,Fulton,13,121,13121,Fulton,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,California,Riverside,NA,TRUE,33.9824949,-117.374238,Riverside,06,065,06065,Riverside,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Pennsylvania,Harrisburg,NA,TRUE,40.2663107,-76.8861122,Dauphin,42,043,42043,Dauphin,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Michigan,Kalamazoo,NA,TRUE,42.291707,-85.5872286,Kalamazoo,26,077,26077,Kalamazoo,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Texas,Austin,NA,TRUE,30.2711286,-97.7436995,Travis,48,453,48453,Travis,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,California,Sacramento,NA,TRUE,38.5810606,-121.493895,Sacramento,06,067,06067,Sacramento,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Connecticut,Hartford,NA,TRUE,41.764582,-72.6908547,Hartford,09,003,09003,Hartford,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Texas,Keller,NA,TRUE,32.9299655,-97.2271249,Tarrant,48,439,48439,Tarrant,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Maryland,Baltimore,NA,TRUE,39.2908816,-76.610759,Baltimore,24,510,24510,Baltimore,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Utah,Salt Lake City,NA,TRUE,40.7596198,-111.886797,Salt Lake,49,035,49035,Salt Lake,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Nevada,Las Vegas,NA,TRUE,36.1674263,-115.1484131,Clark,32,003,32003,Clark,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Idaho,Boise,NA,TRUE,43.6166163,-116.200886,Ada,16,001,16001,Ada,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,California,San Bernardino,NA,TRUE,34.1081621,-117.28946,San Bernardino,06,071,06071,San Bernardino,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Pennsylvania,Scranton,NA,TRUE,41.4086874,-75.6621294,Lackawanna,42,069,42069,Lackawanna,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Arkansas,Little Rock,NA,TRUE,34.7465071,-92.2896267,Pulaski,05,119,05119,Pulaski,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,North Carolina,Siler City,NA,TRUE,35.7234734,-79.4622431,Chatham,37,037,37037,Chatham,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Tennessee,Memphis,NA,TRUE,35.1460249,-90.0517638,Shelby,47,157,47157,Shelby,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,North Carolina,Charlotte,NA,TRUE,35.2272086,-80.8430827,Mecklenburg,37,119,37119,Mecklenburg,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Illinois,Chicago,NA,TRUE,41.8755616,-87.6244212,Cook,17,031,17031,Cook,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Alaska,Sitka,NA,TRUE,57.0524973,-135.337612,Sitka,02,220,02220,Sitka,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Minnesota,Minneapolis,NA,TRUE,44.9772995,-93.2654692,Hennepin,27,053,27053,Hennepin,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Georgia,Dahlonega,NA,TRUE,34.5328484,-83.9845723,Lumpkin,13,187,13187,Lumpkin,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Missouri,St. Louis,NA,TRUE,38.6254063,-90.190009,St. Louis,29,510,29510,St. Louis,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Florida,Orlando,NA,TRUE,28.5421218,-81.379045,Orange,12,095,12095,Orange,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Colorado,Denver,NA,TRUE,39.7392364,-104.984862,Denver,08,031,08031,Denver,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,California,Thousand Oaks,NA,TRUE,34.1705609,-118.8375937,Ventura,06,111,06111,Ventura,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Ohio,Parma,NA,TRUE,41.3822398,-81.7355692,Cuyahoga,39,035,39035,Cuyahoga,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Michigan,Detroit,NA,TRUE,42.3315509,-83.046640300000007,Wayne,26,163,26163,Wayne,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Arkansas,Uniontown,NA,TRUE,35.5845311,-94.4441038,Crawford,05,033,05033,Crawford,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Arizona,Phoenix,NA,TRUE,33.4484367,-112.074141,Maricopa,04,013,04013,Maricopa,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Illinois,Downers Grove,NA,TRUE,41.7936822,-88.0102281,DuPage,17,043,17043,DuPage,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Pennsylvania,Pittsburgh,NA,TRUE,40.4406968,-80.0025666,Allegheny,42,003,42003,Allegheny,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Florida,Plant City,NA,TRUE,28.01633,-82.1234803,Hillsborough,12,057,12057,Hillsborough,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Alaska,Fairbanks,NA,TRUE,64.837845,-147.716675,Fairbanks North Star,02,090,02090,Fairbanks North Star,city_geocode,matched,NA,NA,NA
+National Alliance,Neo-Nazi,Michigan,Plymouth,NA,TRUE,42.3712,-83.4675021,Wayne,26,163,26163,Wayne,city_geocode,matched,NA,NA,NA
+National Association for the Advancement of White People,White Nationalist,Illinois,River Grove,NA,TRUE,41.9258642,-87.8358943,Cook,17,031,17031,Cook,city_geocode,matched,NA,NA,NA
+National Association for the Advancement of White People,White Nationalist,Florida,Tampa,NA,TRUE,27.9449854,-82.4583107,Hillsborough,12,057,12057,Hillsborough,city_geocode,matched,NA,NA,NA
+National Association for the Advancement of White People,White Nationalist,Georgia,Woodstock,NA,TRUE,34.1014112,-84.5192192,Cherokee,13,057,13057,Cherokee,city_geocode,matched,NA,NA,NA
+National Association for the Advancement of White People,White Nationalist,Florida,Callahan,NA,TRUE,30.5637205,-81.8297744,Nassau,12,089,12089,Nassau,city_geocode,matched,NA,NA,NA
+National Association for the Advancement of White People,White Nationalist,Hawaii,Honolulu,NA,TRUE,21.304547,-157.855676,Honolulu,15,003,15003,Honolulu,city_geocode,matched,NA,NA,NA
+National Association for the Advancement of White People,White Nationalist,Louisiana,Marrero,NA,TRUE,29.8993723,-90.1003506,Jefferson,22,051,22051,Jefferson,city_geocode,matched,NA,NA,NA
+National Front of North America,General Hate,Texas,Bryan,NA,TRUE,30.6743643,-96.3699632,Brazos,48,041,48041,Brazos,city_geocode,matched,NA,NA,NA
+National Knights of the KKK,Ku Klux Klan,Ohio,Franklin,NA,TRUE,39.5589474,-84.3041074,Warren,39,165,39165,Warren,city_geocode,matched,NA,NA,NA
+National Knights of the KKK,Ku Klux Klan,Texas,Sheridan,NA,TRUE,29.4938849,-96.6736063,Colorado,48,089,48089,Colorado,city_geocode,matched,NA,NA,NA
+National Knights of the KKK,Ku Klux Klan,Indiana,South bend,NA,TRUE,41.6833813,-86.2500066,St. Joseph,18,141,18141,St. Joseph,city_geocode,matched,NA,NA,NA
+National Knights of the KKK,Ku Klux Klan,Iowa,Vinton,NA,TRUE,42.1679131,-92.0239504,Benton,19,011,19011,Benton,city_geocode,matched,NA,NA,NA
+National Knights of the KKK Youth,Ku Klux Klan,Indiana,Muncie,NA,TRUE,40.1936892,-85.3865271,Delaware,18,035,18035,Delaware,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,New York,New York,NA,TRUE,40.7127281,-74.0060152,New York,36,061,36061,New York,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,California,Palo Alto,NA,TRUE,37.4443293,-122.1598465,Santa Clara,06,085,06085,Santa Clara,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,Rhode Island,Providence,NA,TRUE,41.8239891,-71.4128343,Providence,44,007,44007,Providence,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,New Jersey,Belleville,NA,TRUE,40.7937116,-74.1501438,Essex,34,013,34013,Essex,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,North Carolina,Davidson,NA,TRUE,35.4992614,-80.8485218,Mecklenburg,37,119,37119,Mecklenburg,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,Maryland,Ellicott City,NA,TRUE,39.2673284,-76.7983067,Howard,24,027,24027,Howard,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,Florida,Hollywood,NA,TRUE,26.0112014,-80.1494901,Broward,12,011,12011,Broward,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,New York,Ithaca,NA,TRUE,42.4374175,-76.5483724,Tompkins,36,109,36109,Tompkins,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,Missouri,Kansas City,NA,TRUE,39.100105,-94.5781416,Jackson,29,095,29095,Jackson,city_geocode,matched,NA,NA,NA
+National Skinhead Front,Racist Skinhead,Ohio,Lancaster,NA,TRUE,39.7136754,-82.5993294,Fairfield,39,045,39045,Fairfield,city_geocode,matched,NA,NA,NA
+National Socialist German Workers Party,Neo-Nazi,Nebraska,Lincoln,NA,TRUE,40.8088861,-96.7077751,Lancaster,31,109,31109,Lancaster,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,California,San Francisco,NA,TRUE,37.7879363,-122.4075201,San Francisco,06,075,06075,San Francisco,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Pennsylvania,Corry,NA,TRUE,41.920334,-79.640329,Erie,42,049,42049,Erie,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,South Carolina,Enoree,NA,TRUE,34.6565154,-81.9650977,Spartanburg,45,083,45083,Spartanburg,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Kansas,Scandia,NA,TRUE,39.794452,-97.783654,Republic,20,157,20157,Republic,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Ohio,Lakewood,NA,TRUE,41.4819932,-81.7981908,Cuyahoga,39,035,39035,Cuyahoga,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Minnesota,Litchfield,NA,TRUE,45.1271847,-94.5280474,Meeker,27,093,27093,Meeker,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Texas,Lubbock,NA,TRUE,33.5855677,-101.8470215,Lubbock,48,303,48303,Lubbock,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Minnesota,Minneapolis,NA,TRUE,44.9772995,-93.2654692,Hennepin,27,053,27053,Hennepin,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Indiana,Osceola,NA,TRUE,41.6650487,-86.075836,St. Joseph,18,141,18141,St. Joseph,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Washington,Port Angeles,NA,TRUE,48.118146,-123.430741,Clallam,53,009,53009,Clallam,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,New York,Syracuse,NA,TRUE,43.0481221,-76.1474244,Onondaga,36,067,36067,Onondaga,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Ohio,Ravenna,NA,TRUE,41.157557,-81.242047,Portage,39,133,39133,Portage,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Louisiana,West Monroe,NA,TRUE,32.5184775,-92.1476353,Ouachita,22,073,22073,Ouachita,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Indiana,Alexandria,NA,TRUE,40.2635468,-85.6744815,Madison,18,095,18095,Madison,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,California,Redding,NA,TRUE,40.5863563,-122.391675,Shasta,06,089,06089,Shasta,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Pennsylvania,Bethlehem,NA,TRUE,40.6178915,-75.3786521,Northampton,42,095,42095,Northampton,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Michigan,Redford,NA,TRUE,42.3833698,-83.2965971,Wayne,26,163,26163,Wayne,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Nevada,Reno,NA,TRUE,39.5261788,-119.812658,Washoe,32,031,32031,Washoe,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Pennsylvania,Brookhaven,NA,TRUE,39.8693003,-75.3823039,Delaware,42,045,42045,Delaware,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,California,Reseda,NA,TRUE,34.200768,-118.5356869,Los Angeles,06,037,06037,Los Angeles,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,California,Calpella,NA,TRUE,39.2336932,-123.202672,Mendocino,06,045,06045,Mendocino,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,California,Riverside,NA,TRUE,33.9824949,-117.374238,Riverside,06,065,06065,Riverside,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Colorado,Castle Rock,NA,TRUE,39.3722552,-104.858682,Douglas,08,035,08035,Douglas,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,California,San Diego,NA,TRUE,32.7174202,-117.162772,San Diego,06,073,06073,San Diego,city_geocode,matched,NA,NA,NA
+National Socialist Movement,Neo-Nazi,Ohio,Columbus,NA,TRUE,39.9622601,-83.0007065,Franklin,39,049,39049,Franklin,city_geocode,matched,NA,NA,NA
+National Socialist Vanguard,Neo-Nazi,Oregon,The Dalles,NA,TRUE,45.6015056,-121.1841587,Wasco,41,065,41065,Wasco,city_geocode,matched,NA,NA,NA
+Nationalist Free Press,White Nationalist,Tennessee,Dandridge,NA,TRUE,36.0153693,-83.4148895,Jefferson,47,089,47089,Jefferson,city_geocode,matched,NA,NA,NA
+Nationalist Movement,White Nationalist,Mississippi,Learned,NA,TRUE,32.196817,-90.5473202,Hinds,28,049,28049,Hinds,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,Michigan,Detroit,NA,TRUE,42.3315509,-83.046640300000007,Wayne,26,163,26163,Wayne,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,Texas,Houston,NA,TRUE,29.7589382,-95.3676974,Harris,48,201,48201,Harris,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,New York,New York,NA,TRUE,40.7127281,-74.0060152,New York,36,061,36061,New York,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,New Jersey,Newark,NA,TRUE,40.735657,-74.1723667,Essex,34,013,34013,Essex,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,Virginia,Norfolk,NA,TRUE,36.8493695,-76.2899539,Norfolk,51,710,51710,Norfolk,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,New Jersey,Trenton,NA,TRUE,40.2203074,-74.7659,Mercer,34,021,34021,Mercer,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,District of Columbia,Washington,NA,TRUE,38.8950982,-77.0363849,District of Columbia,11,001,11001,District of Columbia,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,Georgia,Atlanta,NA,TRUE,33.7544657,-84.3898151,Fulton,13,121,13121,Fulton,city_geocode,matched,NA,NA,NA
+New Black Panther Party,Black Separatist,Texas,Dallas,NA,TRUE,32.7762719,-96.7968559,Dallas,48,113,48113,Dallas,city_geocode,matched,NA,NA,NA
+New Covenant Bible Church,Christian Identity,Washington,Port Orchard,NA,TRUE,47.5315625,-122.6384056,Kitsap,53,035,53035,Kitsap,city_geocode,matched,NA,NA,NA
+New Order,Neo-Nazi,Wisconsin,Milwaukee,NA,TRUE,43.0386475,-87.9090751,Milwaukee,55,079,55079,Milwaukee,city_geocode,matched,NA,NA,NA
+New Order Knights of the Ku Klux Klan,Ku Klux Klan,Missouri,Overland,NA,TRUE,38.7011626,-90.3623381,St. Louis,29,189,29189,St. Louis,city_geocode,matched,NA,NA,NA
+North Georgia White Knights of the KKK,Ku Klux Klan,Georgia,Fort Oglethorpe,NA,TRUE,34.9499947,-85.2456607,Catoosa,13,047,13047,Catoosa,city_geocode,matched,NA,NA,NA
+Outlaw Hammerskins,Racist Skinhead,Indiana,Helmsburg,NA,TRUE,39.2652868,-86.2930823,Brown,18,013,18013,Brown,city_geocode,matched,NA,NA,NA
+Outlaw Hammerskins,Racist Skinhead,Indiana,Michigan City,NA,TRUE,41.7075394,-86.8950297,LaPorte,18,091,18091,LaPorte,city_geocode,matched,NA,NA,NA
+Outlaw Hammerskins,Racist Skinhead,Wisconsin,Pewaukee,NA,TRUE,43.0846017,-88.2139452,Waukesha,55,133,55133,Waukesha,city_geocode,matched,NA,NA,NA
+Outlaw Hammerskins,Racist Skinhead,Indiana,South Bend,NA,TRUE,41.6833813,-86.2500066,St. Joseph,18,141,18141,St. Joseph,city_geocode,matched,NA,NA,NA
+Panzerfaust Records,General Hate,Minnesota,Newport,NA,TRUE,44.8734744,-93.0003862,Washington,27,163,27163,Washington,city_geocode,matched,NA,NA,NA
+Pioneer Fund,White Nationalist,New York,New York,NA,TRUE,40.7127281,-74.0060152,New York,36,061,36061,New York,city_geocode,matched,NA,NA,NA
+Posse Comitatus,Christian Identity,Pennsylvania,Ulysses,NA,TRUE,41.9039569,-77.7619374,Potter,42,105,42105,Potter,city_geocode,matched,NA,NA,NA
+Racial Covenant Knights of the Ku Klux Klan,Ku Klux Klan,Nebraska,Ogallala,NA,TRUE,41.1248328,-101.7189583,Keith,31,101,31101,Keith,city_geocode,matched,NA,NA,NA
+Rebel Knights of the Ku Klux Klan,Ku Klux Klan,Virginia,Martinsville,NA,TRUE,36.6915262,-79.8725386,Martinsville,51,690,51690,Martinsville,city_geocode,matched,NA,NA,NA
+Resistance Records,Hate Music,West Virginia,Hillsboro,NA,TRUE,38.1354376,-80.2131296,Pocahontas,54,075,54075,Pocahontas,city_geocode,matched,NA,NA,NA
+Scriptures for America Worldwide Ministries,Christian Identity,Colorado,LaPorte,NA,TRUE,40.627031,-105.1377516,Larimer,08,069,08069,Larimer,city_geocode,matched,NA,NA,NA
+Sigrdrifa,White Nationalist,Michigan,Cloverdale,NA,TRUE,42.4493715,-83.1750551,Oakland,26,125,26125,Oakland,city_geocode,matched,NA,NA,NA
+Sigrdrifa,White Nationalist,Iowa,Olds,NA,TRUE,41.1334584,-91.5451332,Henry,19,087,19087,Henry,city_geocode,matched,NA,NA,NA
+Sigrdrifa,White Nationalist,Washington,Port Angeles,NA,TRUE,48.118146,-123.430741,Clallam,53,009,53009,Clallam,city_geocode,matched,NA,NA,NA
+Sigrdrifa,White Nationalist,Washington,Vancouver,NA,TRUE,45.6306954,-122.6744557,Clark,53,011,53011,Clark,city_geocode,matched,NA,NA,NA
+South Arkansas Knights,Ku Klux Klan,Arkansas,Smackover,NA,TRUE,33.3648455,-92.7248822,Union,05,139,05139,Union,city_geocode,matched,NA,NA,NA
+South Florida Aryan Alliance,Racist Skinhead,Florida,Pompano Beach,NA,TRUE,26.2378597,-80.1247667,Broward,12,011,12011,Broward,city_geocode,matched,NA,NA,NA
+South Florida Aryan Alliance,Racist Skinhead,Florida,Sunrise,NA,TRUE,26.1666888,-80.2787573,Broward,12,011,12011,Broward,city_geocode,matched,NA,NA,NA
+Southern Cross Militant Knights of the Ku Klux Klan,Ku Klux Klan,Alabama,Sylvania,NA,TRUE,34.5623077,-85.8124715,DeKalb,01,049,01049,DeKalb,city_geocode,matched,NA,NA,NA
+Southern Cross Militant Knights of the Ku Klux Klan,Ku Klux Klan,Alabama,Ider,NA,TRUE,34.7142484,-85.6808031,DeKalb,01,049,01049,DeKalb,city_geocode,matched,NA,NA,NA
+Southern Mississippi Knights of the Ku Klux Klan,Ku Klux Klan,Mississippi,Petal,NA,TRUE,31.3465627,-89.2600605,Forrest,28,035,28035,Forrest,city_geocode,matched,NA,NA,NA
+Southern White Knights of the KKK,Ku Klux Klan,Louisiana,Brusly,NA,TRUE,30.3943588,-91.2537199,West Baton Rouge,22,121,22121,West Baton Rouge,city_geocode,matched,NA,NA,NA
+Southern White Knights of the KKK,Ku Klux Klan,Louisiana,Denham Springs,NA,TRUE,30.4868564,-90.9562125,Livingston,22,063,22063,Livingston,city_geocode,matched,NA,NA,NA
+Southern White Knights of the KKK,Ku Klux Klan,Alabama,Saint Elmo,NA,TRUE,30.5035291,-88.2541711,Mobile,01,097,01097,Mobile,city_geocode,matched,NA,NA,NA
+SS Enterprises,Neo-Nazi,California,Fresno,NA,TRUE,36.7394421,-119.78483,Fresno,06,019,06019,Fresno,city_geocode,matched,NA,NA,NA
+SS Knights of the Ku Klux Klan,Ku Klux Klan,Kentucky,Louisville,NA,TRUE,38.2542376,-85.759407,Jefferson,21,111,21111,Jefferson,city_geocode,matched,NA,NA,NA
+SS Regalia,Neo-Nazi,Maryland,Edgewater,NA,TRUE,38.9344805,-76.5575862,Anne Arundel,24,003,24003,Anne Arundel,city_geocode,matched,NA,NA,NA
+Strikeforce Records,General Hate,Ohio,Chesapeake,NA,TRUE,38.4280541,-82.4572416,Lawrence,39,087,39087,Lawrence,city_geocode,matched,NA,NA,NA
+The Social Contract Press,White Nationalist,Michigan,Petoskey,NA,TRUE,45.373343,-84.95533,Emmet,26,047,26047,Emmet,city_geocode,matched,NA,NA,NA
+Thule Publications,Neo-Nazi,Oregon,Portland,NA,TRUE,45.5202471,-122.674194,Multnomah,41,051,41051,Multnomah,city_geocode,matched,NA,NA,NA
+U.S. Klans Knights of the KKK,Ku Klux Klan,Tennessee,Big Sandy,NA,TRUE,36.2347791,-88.0853146,Benton,47,005,47005,Benton,city_geocode,matched,NA,NA,NA
+United White Klans,Ku Klux Klan,Mississippi,Philadelphia,NA,TRUE,32.7703841,-89.1153488,Neshoba,28,099,28099,Neshoba,city_geocode,matched,NA,NA,NA
+United White Klans,Ku Klux Klan,South Carolina,Piedmont,NA,TRUE,34.7023389,-82.4645714,Anderson,45,007,45007,Anderson,city_geocode,matched,NA,NA,NA
+United White Klans,Ku Klux Klan,Mississippi,Union,NA,TRUE,32.5715272,-89.1214478,Newton,28,101,28101,Newton,city_geocode,matched,NA,NA,NA
+United White Klans,Ku Klux Klan,Mississippi,Collinsville,NA,TRUE,32.4979183,-88.8458832,Lauderdale,28,075,28075,Lauderdale,city_geocode,matched,NA,NA,NA
+United White Klans,Ku Klux Klan,South Carolina,Cross Anchor,NA,TRUE,34.6429073,-81.857878,Spartanburg,45,083,45083,Spartanburg,city_geocode,matched,NA,NA,NA
+United White Klans,Ku Klux Klan,Mississippi,Greenwood,NA,TRUE,33.5162315,-90.1795281,Leflore,28,083,28083,Leflore,city_geocode,matched,NA,NA,NA
+Upper Room Identity Fellowship,Christian Identity,Washington,McKenna,NA,TRUE,46.9348213,-122.556511,Pierce,53,053,53053,Pierce,city_geocode,matched,NA,NA,NA
+Vinland Records,General Hate,California,San Diego,NA,TRUE,32.7174202,-117.162772,San Diego,06,073,06073,San Diego,city_geocode,matched,NA,NA,NA
+Virginia Christian Israelites,Christian Identity,Virginia,Round Hill,NA,TRUE,39.132723,-77.7686273,Loudoun,51,107,51107,Loudoun,city_geocode,matched,NA,NA,NA
+Virginia Publishing Company,Christian Identity,Virginia,Lynchburg,NA,TRUE,37.4137536,-79.1422464,Lynchburg,51,680,51680,Lynchburg,city_geocode,matched,NA,NA,NA
+Volksfront,Racist Skinhead,Oregon,Portland,NA,TRUE,45.5202471,-122.674194,Multnomah,41,051,41051,Multnomah,city_geocode,matched,NA,NA,NA
+Volksfront,Racist Skinhead,Oregon,Salem,NA,TRUE,44.9391565,-123.033121,Marion,41,047,41047,Marion,city_geocode,matched,NA,NA,NA
+Volksfront,Racist Skinhead,Oregon,Springfield,NA,TRUE,44.0462362,-123.0220289,Lane,41,039,41039,Lane,city_geocode,matched,NA,NA,NA
+Weisman Publications,Christian Identity,Minnesota,Burnsville,NA,TRUE,44.7670567,-93.2773887,Dakota,27,037,27037,Dakota,city_geocode,matched,NA,NA,NA
+Westboro Baptist Church,Anti-LGBTQ,Kansas,Topeka,NA,TRUE,39.049011,-95.677556,Shawnee,20,177,20177,Shawnee,city_geocode,matched,NA,NA,NA
+White Aryan Resistance,Neo-Nazi,California,Fallbrook,NA,TRUE,33.3820654,-117.2513896,San Diego,06,073,06073,San Diego,city_geocode,matched,NA,NA,NA
+White Camelia Knights of the KKK,Ku Klux Klan,Texas,Cleveland,NA,TRUE,30.3414794,-95.0900115,Liberty,48,291,48291,Liberty,city_geocode,matched,NA,NA,NA
+White Knights of the Ku Klux Klan,Ku Klux Klan,Virginia,Colonial Heights,NA,TRUE,37.2555718,-77.4112016,Colonial Heights,51,570,51570,Colonial Heights,city_geocode,matched,NA,NA,NA
+White Knights of the Ku Klux Klan of Pennsylvania,Ku Klux Klan,Pennsylvania,Oaks,NA,TRUE,40.1317722,-75.4596319,Montgomery,42,091,42091,Montgomery,city_geocode,matched,NA,NA,NA
+Women for Aryan Unity,Neo-Nazi,California,Costa Mesa,NA,TRUE,33.6633386,-117.903317,Orange,06,059,06059,Orange,city_geocode,matched,NA,NA,NA
+Women for Aryan Unity,Neo-Nazi,Alaska,Eagle River,NA,TRUE,61.3154099,-149.561315,Anchorage,02,020,02020,Anchorage,city_geocode,matched,NA,NA,NA
+Women for Aryan Unity,Neo-Nazi,Texas,Huntsville,NA,TRUE,30.7235263,-95.5507771,Walker,48,471,48471,Walker,city_geocode,matched,NA,NA,NA
+Women for Aryan Unity,Neo-Nazi,Missouri,O'Fallon,NA,TRUE,38.7902503,-90.7033292,St. Charles,29,183,29183,St. Charles,city_geocode,matched,NA,NA,NA
+Women for Aryan Unity,Neo-Nazi,Louisiana,Shreveport,NA,TRUE,32.5135356,-93.7477839,Caddo,22,017,22017,Caddo,city_geocode,matched,NA,NA,NA
+Women for Aryan Unity,Neo-Nazi,Virginia,Warrenton,NA,TRUE,38.7135498,-77.795367,Fauquier,51,061,51061,Fauquier,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Mattoon,NA,TRUE,39.4842821,-88.3773279,Coles,17,029,17029,Coles,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Ohio,Youngstown,NA,TRUE,41.1035786,-80.6520161,Mahoning,39,099,39099,Mahoning,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Chicago,NA,TRUE,41.8755616,-87.6244212,Cook,17,031,17031,Cook,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Massachusetts,Peabody,NA,TRUE,42.5278731,-70.9286609,Essex,25,009,25009,Essex,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,South Carolina,Edgefield,NA,TRUE,33.7895774,-81.9295582,Edgefield,45,037,45037,Edgefield,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Massachusetts,Sutton,NA,TRUE,42.1499283,-71.7629658,Worcester,25,027,25027,Worcester,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Arizona,Mesa,NA,TRUE,33.4151005,-111.831455,Maricopa,04,013,04013,Maricopa,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Pennsylvania,Philadelphia,NA,TRUE,39.9527237,-75.1635262,Philadelphia,42,101,42101,Philadelphia,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Connecticut,Fairfield,NA,TRUE,41.1412078,-73.2637258,Fairfield,09,001,09001,Fairfield,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,California,Tehachapi,NA,TRUE,35.1321878,-118.4489739,Kern,06,029,06029,Kern,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Connecticut,Middlebury,NA,TRUE,41.5278663,-73.1283092,New Haven,09,009,09009,New Haven,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Clearwater,NA,TRUE,27.9658533,-82.8001026,Pinellas,12,103,12103,Pinellas,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Arizona,Phoenix,NA,TRUE,33.4484367,-112.074141,Maricopa,04,013,04013,Maricopa,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Arizona,Florence,NA,TRUE,33.0314508,-111.387343,Pinal,04,021,04021,Pinal,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Texas,Tennessee Colony,NA,TRUE,31.8354447,-95.8388504,Anderson,48,001,48001,Anderson,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Texas,Midway,NA,TRUE,31.0260203,-95.7505033,Madison,48,313,48313,Madison,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Ohio,Cleveland,NA,TRUE,41.4996574,-81.6936772,Cuyahoga,39,035,39035,Cuyahoga,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Pennsylvania,Pittsburgh,NA,TRUE,40.4406968,-80.0025666,Allegheny,42,003,42003,Allegheny,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Pennsylvania,Greensburg,NA,TRUE,40.3024514,-79.5443274,Westmoreland,42,129,42129,Westmoreland,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Trenton,NA,TRUE,40.2203074,-74.7659,Mercer,34,021,34021,Mercer,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Texas,Austin,NA,TRUE,30.2711286,-97.7436995,Travis,48,453,48453,Travis,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Milton,NA,TRUE,30.6324149,-87.0396881,Santa Rosa,12,113,12113,Santa Rosa,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Indiana,Fort Wayne,NA,TRUE,41.0799898,-85.1386015,Allen,18,003,18003,Allen,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Connecticut,Clinton,NA,TRUE,41.2787104,-72.5275904,Middlesex,09,007,09007,Middlesex,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Pontiac,NA,TRUE,40.8808666,-88.6297839,Livingston,17,105,17105,Livingston,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Texas,Groveton,NA,TRUE,31.0549071,-95.1257691,Trinity,48,455,48455,Trinity,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Georgia,Bainbridge,NA,TRUE,30.9038252,-84.5754768,Decatur,13,087,13087,Decatur,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Wisconsin,Milwaukee,NA,TRUE,43.0386475,-87.9090751,Milwaukee,55,079,55079,Milwaukee,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Hamilton,NA,TRUE,40.506215,-74.6201578,Somerset,34,035,34035,Somerset,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Alabama,Clio,NA,TRUE,31.7087753,-85.6104972,Barbour,01,005,01005,Barbour,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Virginia,Pound,NA,TRUE,37.1237146,-82.6012667,Wise,51,195,51195,Wise,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Oregon,Hillsboro,NA,TRUE,45.5228939,-122.989827,Washington,41,067,41067,Washington,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Texas,Vidor,NA,TRUE,30.1313283,-94.0148021,Orange,48,361,48361,Orange,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,California,Big Bear,NA,TRUE,34.2440587,-116.91018,San Bernardino,06,071,06071,San Bernardino,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Montana,Missoula,NA,TRUE,46.8701049,-113.995267,Missoula,30,063,30063,Missoula,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Washington,Lynwood,NA,TRUE,47.6061784,-122.5479072,Kitsap,53,035,53035,Kitsap,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Idaho,Coeur d'Alene,NA,TRUE,47.6742994,-116.7811531,Kootenai,16,055,16055,Kootenai,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Punta Gorda,NA,TRUE,26.9351529,-82.0512058,Charlotte,12,015,12015,Charlotte,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Michigan,Ionia,NA,TRUE,42.9872547,-85.0711174,Ionia,26,067,26067,Ionia,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Bordentown,NA,TRUE,40.1462685,-74.7114508,Burlington,34,005,34005,Burlington,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Monticello,NA,TRUE,30.5452022,-83.8701636,Jefferson,12,065,12065,Jefferson,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Ohio,Akron,NA,TRUE,41.083064,-81.518485,Summit,39,153,39153,Summit,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Virginia,Colonial Heights,NA,TRUE,37.2555718,-77.4112016,Colonial Heights,51,570,51570,Colonial Heights,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Tennessee,Ramer,NA,TRUE,35.0695303,-88.622272,McNairy,47,109,47109,McNairy,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Island Heights,NA,TRUE,39.9420626,-74.1498616,Ocean,34,029,34029,Ocean,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Massachusetts,Boston,NA,TRUE,42.3588336,-71.0578303,Suffolk,25,025,25025,Suffolk,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Montville,NA,TRUE,40.9148209,-74.383763,Morris,34,027,34027,Morris,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New York,Alden,NA,TRUE,42.9000596,-78.4919671,Erie,36,029,36029,Erie,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Georgia,Columbus,NA,TRUE,32.4610708,-84.9880449,Muscogee,13,215,13215,Muscogee,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Mississippi,Raymond,NA,TRUE,32.2592783,-90.4225951,Hinds,28,049,28049,Hinds,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Jersey City,NA,TRUE,40.7215682,-74.047455,Hudson,34,017,34017,Hudson,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Bridgeton,NA,TRUE,39.4269659,-75.2341587,Cumberland,34,011,34011,Cumberland,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Mt. Holly,NA,TRUE,39.9928898,-74.7876624,Burlington,34,005,34005,Burlington,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Pennsylvania,Altoona,NA,TRUE,40.5193586,-78.3968299,Blair,42,013,42013,Blair,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Wisconsin,Cudahy,NA,TRUE,42.959738,-87.861471,Milwaukee,55,079,55079,Milwaukee,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Pennsylvania,Reading,NA,TRUE,40.335345,-75.9279495,Berks,42,011,42011,Berks,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Joliet,NA,TRUE,41.5263603,-88.0840212,Will,17,197,17197,Will,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Indiana,Bristol,NA,TRUE,41.7214415,-85.8175361,Elkhart,18,039,18039,Elkhart,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Wisconsin,New Berlin,NA,TRUE,42.9762181,-88.1084968,Waukesha,55,133,55133,Waukesha,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Mexico,Rio Rancho,NA,TRUE,35.3108227,-106.6847453,Sandoval,35,043,35043,Sandoval,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Lake Butler,NA,TRUE,30.0227391,-82.3395574,Union,12,125,12125,Union,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Camden,NA,TRUE,39.9448402,-75.1198911,Camden,34,007,34007,Camden,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New York,New York,NA,TRUE,40.7127281,-74.0060152,New York,36,061,36061,New York,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Davie,NA,TRUE,26.0628665,-80.2331038,Broward,12,011,12011,Broward,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,California,Sierra Madre,NA,TRUE,34.1616729,-118.052845,Los Angeles,06,037,06037,Los Angeles,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Lake Panasoffkee,NA,TRUE,28.7865172,-82.1290284,Sumter,12,119,12119,Sumter,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Connecticut,Wallingford,NA,TRUE,41.4564233,-72.8239356,New Haven,09,009,09009,New Haven,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,California,Carmichael,NA,TRUE,38.617127,-121.32828430000001,Sacramento,06,067,06067,Sacramento,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Deerfield,NA,TRUE,42.1711365,-87.8445119,Lake,17,097,17097,Lake,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New York,Sleepy Hollow,NA,TRUE,41.085652,-73.8584684,Westchester,36,119,36119,Westchester,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Wilmette,NA,TRUE,42.076066,-87.7115555,Cook,17,031,17031,Cook,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Georgia,Carrollton,NA,TRUE,33.5801103,-85.0766113,Carroll,13,045,13045,Carroll,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Okeechobee,NA,TRUE,27.2437062,-80.8299044,Okeechobee,12,093,12093,Okeechobee,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Defuniak Springs,NA,TRUE,30.7210227,-86.1152184,Walton,12,131,12131,Walton,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Starke,NA,TRUE,29.9443549,-82.1101114,Bradford,12,007,12007,Bradford,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,New Jersey,Landing,NA,TRUE,40.9050592,-74.6651644,Morris,34,027,34027,Morris,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Ohio,Lisbon,NA,TRUE,40.7720044,-80.7681336,Columbiana,39,029,39029,Columbiana,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Windsor,NA,TRUE,41.2022584,-90.4423521,Mercer,17,131,17131,Mercer,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Nevada,Carson City,NA,TRUE,39.1663259,-119.7670374,Carson City,32,510,32510,Carson City,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,California,Orange Cove,NA,TRUE,36.624394,-119.31373,Fresno,06,019,06019,Fresno,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Dixon,NA,TRUE,41.8425197,-89.4814291,Lee,17,103,17103,Lee,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Massachusetts,Sterling,NA,TRUE,42.4374411,-71.7601869,Worcester,25,027,25027,Worcester,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Madison,NA,TRUE,30.4693772,-83.4129254,Madison,12,079,12079,Madison,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Pennsylvania,Wrightsville,NA,TRUE,40.0266809,-76.5334387,York,42,133,42133,York,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Florida,Century,NA,TRUE,30.9732384,-87.2638628,Escambia,12,033,12033,Escambia,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,Park Ridge,NA,TRUE,42.0112329,-87.8406031,Cook,17,031,17031,Cook,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Illinois,East Peoria,NA,TRUE,40.666149,-89.5800978,Tazewell,17,179,17179,Tazewell,city_geocode,matched,NA,NA,NA
+World Church of the Creator,Neo-Nazi,Montana,Superior,NA,TRUE,47.1915937,-114.891797,Mineral,30,061,30061,Mineral,city_geocode,matched,NA,NA,NA
+Council of Conservative Citizens,White Nationalist,South Carolina,Aiken County,NA,TRUE,NA,NA,NA,NA,NA,45003,Aiken,county_string,matched,county,45,NA
+Council of Conservative Citizens,White Nationalist,Mississippi,Webster County,NA,TRUE,NA,NA,NA,NA,NA,28155,Webster,county_string,matched,county,28,NA
+Council of Conservative Citizens,White Nationalist,Mississippi,Leflore County,NA,TRUE,NA,NA,NA,NA,NA,28083,Leflore,county_string,matched,county,28,NA
+Council of Conservative Citizens,White Nationalist,Mississippi,Calhoun County,NA,TRUE,NA,NA,NA,NA,NA,28013,Calhoun,county_string,matched,county,28,NA
+FreeMississippi,Neo-Confederate,Mississippi,Calhoun County,NA,TRUE,NA,NA,NA,NA,NA,28013,Calhoun,county_string,matched,county,28,NA
+League of the South,Neo-Confederate,Alabama,Emore County,NA,TRUE,NA,NA,NA,NA,NA,01051,Elmore,county_string,matched,county,01,NA
+League of the South,Neo-Confederate,Alabama,Chambers County,NA,TRUE,NA,NA,NA,NA,NA,01017,Chambers,county_string,matched,county,01,NA
+League of the South,Neo-Confederate,South Carolina,Lexington County,NA,TRUE,NA,NA,NA,NA,NA,45063,Lexington,county_string,matched,county,45,NA
+League of the South,Neo-Confederate,South Carolina,Charleston County,NA,TRUE,NA,NA,NA,NA,NA,45019,Charleston,county_string,matched,county,45,NA
+League of the South,Neo-Confederate,Georgia,Cherokee County,NA,TRUE,NA,NA,NA,NA,NA,13057,Cherokee,county_string,matched,county,13,NA
+League of the South,Neo-Confederate,Georgia,Polk County,NA,TRUE,NA,NA,NA,NA,NA,13233,Polk,county_string,matched,county,13,NA
+League of the South,Neo-Confederate,South Carolina,Colleton County,NA,TRUE,NA,NA,NA,NA,NA,45029,Colleton,county_string,matched,county,45,NA
+League of the South,Neo-Confederate,Georgia,Habersham County,NA,TRUE,NA,NA,NA,NA,NA,13137,Habersham,county_string,matched,county,13,NA
+League of the South,Neo-Confederate,Texas,Tarrant County,NA,TRUE,NA,NA,NA,NA,NA,48439,Tarrant,county_string,matched,county,48,NA
+League of the South,Neo-Confederate,Alabama,Baldwin County,NA,TRUE,NA,NA,NA,NA,NA,01003,Baldwin,county_string,matched,county,01,NA
+League of the South,Neo-Confederate,South Carolina,Beaufort County,NA,TRUE,NA,NA,NA,NA,NA,45013,Beaufort,county_string,matched,county,45,NA
+League of the South,Neo-Confederate,South Carolina,Berkeley County,NA,TRUE,NA,NA,NA,NA,NA,45015,Berkeley,county_string,matched,county,45,NA
+League of the South,Neo-Confederate,South Carolina,Newberry County,NA,TRUE,NA,NA,NA,NA,NA,45071,Newberry,county_string,matched,county,45,NA
+League of the South,Neo-Confederate,South Carolina,Edgefield County,NA,TRUE,NA,NA,NA,NA,NA,45037,Edgefield,county_string,matched,county,45,NA
+League of the South,Neo-Confederate,South Carolina,Oconee County,NA,TRUE,NA,NA,NA,NA,NA,45073,Oconee,county_string,matched,county,45,NA
+America's Invisible Empire Knights of the KKK,Christian Identity,Tennessee,Pulaska,NA,TRUE,NA,NA,NA,47,055,47055,NA,manual_fix,matched,city,NA,Pulaski
+American Knights of the Ku Klux Klan,Ku Klux Klan,North Carolina,Millspring,NA,TRUE,NA,NA,NA,37,149,37149,NA,manual_fix,matched,city,NA,Mill Spring
+Aryan Nations,Neo-Nazi,Louisiana,West Wego,NA,TRUE,NA,NA,NA,22,051,22051,NA,manual_fix,matched,region,NA,Westwego
+Council of Conservative Citizens,White Nationalist,North Carolina,eastern North Carolina,NA,TRUE,NA,NA,NA,37,147,37147,NA,manual_fix,matched,region,NA,Greenville
+Council of Conservative Citizens,White Nationalist,Florida,Tampa Bay,NA,TRUE,NA,NA,NA,12,057,12057,NA,manual_fix,matched,city,NA,Tampa
+Council of Conservative Citizens,White Nationalist,Mississippi,Byrum,NA,TRUE,NA,NA,NA,28,049,28049,NA,manual_fix,matched,city,NA,Byram
+European-American Unity and Rights Organization,White Nationalist,Mississippi,northern Mississippi,NA,TRUE,NA,NA,NA,28,071,28071,NA,manual_fix,matched,region,NA,Oxford
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,New York,Warwich,NA,TRUE,NA,NA,NA,36,071,36071,NA,manual_fix,matched,city,NA,Warwick
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Ohio,Ameilia,NA,TRUE,NA,NA,NA,39,025,39025,NA,manual_fix,matched,city,NA,Amelia
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Illinois,Prospects Heights,NA,TRUE,NA,NA,NA,17,031,17031,NA,manual_fix,matched,city,NA,Prospect Heights
+Imperial Klans of America Knights of the KKK,Ku Klux Klan,Ohio,Richmondale,NA,TRUE,NA,NA,NA,39,141,39141,NA,manual_fix,matched,city,NA,Richmond Dale
+International Keystone Knights of the KKK,Ku Klux Klan,Virginia,Bayse,NA,TRUE,NA,NA,NA,51,171,51171,NA,manual_fix,matched,city,NA,Basye
+League of the South,Neo-Confederate,Alabama,Atalla,NA,TRUE,NA,NA,NA,01,055,01055,NA,manual_fix,matched,city,NA,Attalla
+League of the South,Neo-Confederate,South Carolina,lowcountry chapter,NA,TRUE,NA,NA,NA,45,019,45019,NA,manual_fix,matched,city,NA,Charleston
+League of the South,Neo-Confederate,South Carolina,upcountry chapter,NA,TRUE,NA,NA,NA,45,045,45045,NA,manual_fix,matched,city,NA,Greenville
+League of the South,Neo-Confederate,Texas,Waxahatchie,NA,TRUE,NA,NA,NA,48,139,48139,NA,manual_fix,matched,city,NA,Waxahachie
+League of the South,Neo-Confederate,Montana,Big Fork,NA,TRUE,NA,NA,NA,30,029,30029,NA,manual_fix,matched,city,NA,Bigfork
+Nation of Islam,Black Separatist,New Jersey,New Brunswich,NA,TRUE,NA,NA,NA,34,023,34023,NA,manual_fix,matched,city,NA,New Brunswick
+National Alliance,Neo-Nazi,Massachusetts,Cape Cod,NA,TRUE,NA,NA,NA,25,001,25001,NA,manual_fix,matched,city,NA,Barnstable
+National Alliance,Neo-Nazi,North Carolina,Elon College,NA,TRUE,NA,NA,NA,37,001,37001,NA,manual_fix,matched,city,NA,Elon
+National Socialist Movement,Neo-Nazi,California,Monroula,NA,TRUE,NA,NA,NA,06,037,06037,NA,manual_fix,matched,city,NA,Monrovia
+National Socialist Movement,Neo-Nazi,New York,Binhamton,NA,TRUE,NA,NA,NA,36,007,36007,NA,manual_fix,matched,city,NA,Binghamton
+World Church of the Creator,Neo-Nazi,Missouri,Clarkston,NA,TRUE,NA,NA,NA,29,189,29189,NA,manual_fix,matched,city,NA,Clarkson Valley
+World Church of the Creator,Neo-Nazi,Arizona,Tuscon,NA,TRUE,NA,NA,NA,04,019,04019,NA,manual_fix,matched,city,NA,Tucson
+World Church of the Creator,Neo-Nazi,North Carolina,Culluwhee,NA,TRUE,NA,NA,NA,37,099,37099,NA,manual_fix,matched,city,NA,Cullowhee
+World Church of the Creator,Neo-Nazi,Minnesota,North Baport,NA,TRUE,NA,NA,NA,27,163,27163,NA,manual_fix,matched,region,NA,Bayport
+World Church of the Creator,Neo-Nazi,Texas,LaMarque,NA,TRUE,NA,NA,NA,48,167,48167,NA,manual_fix,matched,city,NA,La Marque
+European-American Unity and Rights Organization,White Nationalist,Ohio,Willard/Sandusky,NA,TRUE,NA,NA,NA,NA,NA,39077,NA,manual_fix_split,matched,multiple,NA,NA
+European-American Unity and Rights Organization,White Nationalist,Ohio,Willard/Sandusky,NA,TRUE,NA,NA,NA,NA,NA,39143,NA,manual_fix_split,matched,multiple,NA,NA
+League of the South,Neo-Confederate,Texas,Wise/Denton counties,NA,TRUE,NA,NA,NA,NA,NA,48497,NA,manual_fix_split,matched,multiple,NA,NA
+League of the South,Neo-Confederate,Texas,Wise/Denton counties,NA,TRUE,NA,NA,NA,NA,NA,48121,NA,manual_fix_split,matched,multiple,NA,NA
