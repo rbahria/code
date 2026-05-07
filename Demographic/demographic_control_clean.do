@@ -2,7 +2,6 @@
 	In this file I am cleaning Demographic data :
 	
 	--> Race, sex, age from US census MISSING 2021
-	--> Education & ... from  ACS
 ---------------------------------------------------
 */
 
@@ -31,7 +30,7 @@ cd "${PATH}"
 
 ******************************************************************
 
-* 				cleaning
+* 				cleaning US census Demographics
 
 ******************************************************************
 
@@ -463,3 +462,4 @@ save "${clean}/demo/demo_us_2011_2020.dta", replace
 
 *check
 tab county_name if strpos(county_name, "Wrang"), missing
+
