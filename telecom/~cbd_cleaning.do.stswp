@@ -1,0 +1,36 @@
+
+
+ 
+****************************************************************
+
+* 				Set up
+
+****************************************************************
+
+
+
+clear all
+set more off
+
+
+global PATH "C:\Users\ranya\OneDrive - Alma Mater Studiorum Università di Bologna\Desktop\UNIBO\PFE\US\Work"
+global data "${PATH}/data/raw"
+global clean "${PATH}/data/clean"
+global temp "${PATH}/data/temp"
+
+cd "${PATH}"
+
+
+
+
+
+******************************************************************
+* 				cleaning  Facility
+******************************************************************
+
+
+
+
+
+
+
