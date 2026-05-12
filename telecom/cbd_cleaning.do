@@ -129,7 +129,7 @@ keep facility_id fac_callsign comm_city comm_state
 
 
 ******************************************************************
-* 		cleaning  application : bridge to ownership
+* 		cleaning  application : intent
 ******************************************************************
 
 //only if a request( filing request) was filed, would need app_tracking.dta to determine if  FCC said yes
@@ -158,9 +158,7 @@ rename v26 last_change_date
 possible:
 		v15 frn
 		v20 network_affiliation
-		v22 county_name
-
-			
+		v22 county_name		
 */
 
 label variable app_arn "Filing date + processing order (ARN)"
@@ -196,7 +194,7 @@ save "${temp}/cbds/application.dta", replace
 
 
 ******************************************************************
-* 		cleaning  app_tracking
+* 		cleaning  app_tracking : approval
 ******************************************************************
 
 
@@ -220,8 +218,8 @@ rename v11 last_change_date
 
 * Convert dates
 rename app_status_date app_status_str
-drop app_status_str
 gen app_status_date = date(app_status_str, "MDY")
+drop app_status_str
 format app_status_date %tdnn/dd/CCYY
 gen year_status= year(app_status_date)
 
@@ -229,12 +227,65 @@ gen year_status= year(app_status_date)
 keep if inlist(app_status, "GRANT", "GRNT")
 
 keep application_id app_status app_status_date year
+destring application_id, replace
 
 save "${temp}/cbds/app_tracking.dta", replace
 
 
 ******************************************************************
-* 		cleaning  
+* 		cleaning  app_party
 ******************************************************************
 
+
+clear
+import delimited "${data}/cdbs_files/app_party.dat", delimiter("|") stringcols(_all) varnames(nonames) clear
+
+keep v1-v11
+rename v1 application_id
+rename v2 party_id
+rename v3 party_type
+rename v4 cert_title
+rename v5 cert_date
+rename v6 other_fcc_id
+rename v7 party_notify_ind
+rename v8 party_relationship
+rename v9 sig_present_ind
+rename v10 sig_name
+rename v11 last_change_date
+
+
+
+/*
+ party_type |   
+------------+-----------------------------------
+      AECRT 	
+      AOCRT |  
+      APCRT |    
+      APPLI | applicant
+      ASTRE |  Assignee/Transferee --> buyer
+      ASTRO |     ssignor/Transferor --> Seller 
+      CNREP |   Lawyer
+      CNTSE |     
+      CNTSO |    
+      CRTEN |    
+      NCCRT |     
+      OWNEN |    
+      RSPON |     
+	  */
+
+keep application_id party_id party_type 
+destring application_id, replace
+save "${temp}/cbds/app_party.dta", replace
+
+
+*merge to app_tracking
+use "${temp}/cbds/app_party.dta", clear
+
+merge m:m application_id using "${temp}/cbds/app_tracking.dta"
+
+keep if _merge == 3
+drop _merge
+save "${temp}/cbds/app_tracking.dta", replace
+
+save "${temp}/cbds/app_tracking_party_merged.dta", replace
 
