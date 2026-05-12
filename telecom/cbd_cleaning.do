@@ -386,6 +386,9 @@ tab party_name if conglomerate == 3
 
 drop party_phone party_email party_citizenship 
 
+destring party_id, replace force
+drop if missing(party_id)
+drop party_address2 party_fax party_zip2 party_city party_country party_state
 save "${temp}/cbds/party.dta", replace
 
 
@@ -421,4 +424,50 @@ save "${temp}/cbds/ownership_group.dta", replace
 
 
 
+******************************************************************
+* 		cleaning  ownership_structure
+******************************************************************
 
+
+clear
+import delimited "${data}/cdbs_files/ownership_structure.dat", delimiter("|") stringcols(_all) varnames(nonames) clear
+
+
+
+
+
+/*
+******************************************************************
+* 1. PRE-PROCESS TO FIX THE LINE BREAKS
+******************************************************************
+* Create a temporary file path for the cleaned data
+tempfile cleaned_structure
+
+* Step A: Replace all actual 'New Line' (\r\n) with a space
+* This collapses the whole file into one giant line of text.
+filefilter "${data}/cdbs_files/ownership_structure.dat" "`cleaned_structure'_tmp", from("\r\n") to(" ") replace
+
+* Step B: Now, put a real 'New Line' (\r\n) back ONLY where the Caret-Pipe (^|) exists
+* This ensures each observation starts exactly where it should.
+filefilter "`cleaned_structure'_tmp" "`cleaned_structure'", from("^|") to("\r\n") replace
+
+******************************************************************
+* 2. IMPORT THE STABILIZED DATA
+******************************************************************
+clear
+* Now that rows are stabilized, we import the first 17 columns
+import delimited "`cleaned_structure'", ///
+    delimiter("|") colrange(1:17) varnames(nonames) clear
+
+*/
+
+clear
+
+import delimited "${data}/cdbs_files/ownership_structure.dat", ///
+    delimiter("|") ///
+    rowrange(:100) ///
+    stringcols(_all) ///
+    bindquote(nobind) ///
+    clear
+	
+	list v1-v25 in 1/5, clean noobs

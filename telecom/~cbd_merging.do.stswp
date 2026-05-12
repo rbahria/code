@@ -20,7 +20,7 @@ cd "${PATH}"
 * Merging
 ******************************************************************
 
-*application cleaning
+/*application cleaning
 use "${temp}/cbds/application.dta", clear
 
 keep app_arn application_id comm_city comm_state fac_callsign app_type last_change_date
@@ -28,34 +28,29 @@ keep app_arn application_id comm_city comm_state fac_callsign app_type last_chan
 drop if missing(application_id)
 drop if missing(fac_callsign)
 
-save "${temp}/cbds/application_2.dta", replace
+save "${temp}/cbds/application_2.dta", replace */
 
-***********
-*mERGING
 
-* merge Application to get the Facility IDs
+
+* merge app_tracking_party Application to get the Facility IDs
 use "${temp}/cbds/app_tracking_party_merged.dta", clear
 merge m:1 application_id using "${temp}/cbds/application.dta", keep(match) nogenerate
 
 *merge to facility
 merge m:1 facility_id using "${temp}/cbds/facility.dta", keep(match) nogenerate
 
-save"${temp}/cbds/intermediate_merge.dta", replace
-
 
 * attach the Conglomerate names/flags
-use "${temp}/cbds/intermediate_merge.dta", clear
 destring party_id, replace force
 merge m:1 party_id using "${temp}/cbds/party.dta", keep(match) nogenerate
 
+save"${temp}/cbds/intermediate_merge.dta", replace
 
-* 5. Finalize the Treatment Variable
-gen is_buyer = (party_type == "ASTRE")
-gen buyer_conglom = conglomerate if is_buyer == 1
-label values buyer_conglom cong_lbl
+tab facility_id if conglomerate == 3
 
-* Drop extra parties to have one row per acquisition event
-keep if is_buyer == 1
+
+
+
 
 save "${temp}/final_analysis_sample.dta", replace why m to 1 for facility
 
