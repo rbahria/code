@@ -26,17 +26,15 @@ cd "${PATH}"
 
 
 ******************************************************************
-* 				cleaning  Facility
+* 	cleaning  Facility: What stations are they?
 ******************************************************************
-
+* 
 
 * Clear existing data
 clear
 
 /*Import using the dictionary
 infile using "${helper}/facility.dct", using("${data}/cdbs_files/facility.dat") delimiter("|") clear*/
-
-import delimited "${data}/cdbs_files/facility.dat", delimiter("|") clear
 
 import delimited "${data}/cdbs_files/facility.dat", delimiter("|") clear
 
@@ -71,8 +69,7 @@ rename v30 last_change_date
 
 /*
  possibly v27 Network Affilication
-		 v28 Market Name/DMA
-		 
+		 v28 Market Name/DMA 
 		 */
 
 drop in 1/3
@@ -132,15 +129,112 @@ keep facility_id fac_callsign comm_city comm_state
 
 
 ******************************************************************
-* 				cleaning  application 
+* 		cleaning  application : bridge to ownership
+******************************************************************
+
+//only if a request( filing request) was filed, would need app_tracking.dta to determine if  FCC said yes
+
+import delimited "${data}/cdbs_files/application.dat", delimiter("|") rowrange(4) clear
+
+drop v27 v28
+
+rename v1  app_arn
+rename v2  app_service
+rename v3  application_id
+rename v4  facility_id
+rename v5  file_prefix
+rename v6  comm_city
+rename v7  comm_state
+rename v8  fac_frequency
+rename v9  station_channel
+rename v10 fac_callsign
+rename v11 general_app_service
+rename v12 app_type
+rename v13 paper_filed_ind
+rename v14 dtv_type
+rename v26 last_change_date
+
+/*
+possible:
+		v15 frn
+		v20 network_affiliation
+		v22 county_name
+
+			
+*/
+
+label variable app_arn "Filing date + processing order (ARN)"
+label variable app_service "Service addressed by application (e.g., TV, DT)"
+label variable application_id "System-generated unique ID for the filing"
+label variable facility_id "Unique ID for the station"
+label variable file_prefix "Combination of app type and facility type codes"
+label variable fac_frequency "Frequency assigned to the station"
+label variable station_channel "Station channel number"
+label variable fac_callsign "Station call sign"
+label variable general_app_service "Service type (AM, FM, TV, or DT) from form"
+label variable app_type "Type of application (e.g., AL=Assignment, TC=Transfer)"
+label variable paper_filed_ind "Indicator for paper-filed forms"
+label variable dtv_type "DTV transition status (Pre/Post/Both)"
+label variable last_change_date "Date the application was last updated"
+
+/*
+	*facility id link to facility_dta
+	* app_type only AL (Assignment of License) and TC ( Transfer of Control) --> sales
+	* application_id link to party.Dta
+	
+	* app_arn
+*/
+
+
+*destring facility_id application_id, replace force
+
+
+*Filter for Acquisition-related types
+keep if inlist(app_type, "AL", "TC", "BAL", "BTC")
+
+save "${temp}/cbds/application.dta", replace
+
+
+******************************************************************
+* 		cleaning  app_tracking
 ******************************************************************
 
 
+clear
+import delimited "${data}/cdbs_files/app_tracking.dat", delimiter("|") stringcols(_all) varnames(nonames) clear
 
 
+keep v1-v11
+
+rename v1  application_id
+rename v2  app_status_date
+rename v3  cutoff_date
+rename v4  cutoff_type
+rename v5  cp_exp_date
+rename v6  app_status
+rename v7  dtv_checklist
+rename v8  amendment_stamped_date
+rename v9  accepted_date
+rename v10 tolling_code
+rename v11 last_change_date
+
+* Convert dates
+rename app_status_date app_status_str
+drop app_status_str
+gen app_status_date = date(app_status_str, "MDY")
+format app_status_date %tdnn/dd/CCYY
+gen year_status= year(app_status_date)
+
+* Keep only Granted applications 
+keep if inlist(app_status, "GRANT", "GRNT")
+
+keep application_id app_status app_status_date year
+
+save "${temp}/cbds/app_tracking.dta", replace
 
 
-
-
+******************************************************************
+* 		cleaning  app_tracking : bridge to ownership
+******************************************************************
 
 
