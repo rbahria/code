@@ -7,6 +7,8 @@
 	app_party: Party_id
 	ownership_group: Station A belongs to Group
 
+	
+	to look into the translator stations TX 
 */
  
  
@@ -47,9 +49,6 @@ cd "${PATH}"
 * Clear existing data
 clear
 
-/*Import using the dictionary
-infile using "${helper}/facility.dct", using("${data}/cdbs_files/facility.dat") delimiter("|") clear*/
-
 import delimited "${data}/cdbs_files/facility.dat", delimiter("|") clear
 
 *renaming
@@ -88,6 +87,7 @@ rename v30 last_change_date
 
 drop in 1/3
 drop  v31 v32
+
 
 *labels
 label variable comm_city           "City of community served"
@@ -132,15 +132,31 @@ label variable last_change_date    "Date record last updated"
 	protections to full-power stations ??
 
 */
-
-*Keep only TV-related stations
-keep if inlist(fac_service, "TV", "DT", "TV" "LD", "TX", "CA")
+* keep if inlist(fac_service, "TV", "DT", "TV" "LD", "TX", "CA")
 
 *back up file
+save "${temp}/cbds/facility_backup.dta", replace
+
+*Keep only TV-related stations
+keep if inlist(fac_service, "TV", "DT", "LD", "CA")
+
+*Keep only commercial stations
+keep if inlist(fac_type, "CDT", "CT")
+
+*only US
+keep if fac_country == "US"
+
+*only Main stations
+tab station_type
+keep if station_type == "M"
+
+drop eeo_rpt_ind fac_channel fac_frequency fac_country fac_address2 lic_expiration_date fac_zip2 station_type assoc_facility_id tsid_ntsc tsid_dtv sat_tv v27 v28 v29
+
+destring facility_id , replace
+
+
 save "${temp}/cbds/facility.dta", replace
 
-*only necessary vars
-keep facility_id fac_callsign comm_city comm_state 
 
 
 ******************************************************************
@@ -199,11 +215,24 @@ label variable last_change_date "Date the application was last updated"
 */
 
 
-*destring facility_id application_id, replace force
+save "${temp}/cbds/application_backup.dta", replace
 
 
 *Filter for Acquisition-related types
 keep if inlist(app_type, "AL", "TC", "BAL", "BTC")
+
+*filter for TV only
+keep if inlist(app_service, "DT", "TV", "CA")
+
+
+drop file_prefix  v25 v24 v23 v17 v15 v18 v19 v20
+drop fac_frequency station_channel  paper_filed_ind 
+drop v21 
+drop general_app_service
+drop dtv_type
+
+destring facility_id, replace
+destring application_id, replace 
 
 save "${temp}/cbds/application.dta", replace
 
@@ -388,6 +417,8 @@ drop order_number file_prefix
 
 
 save "${temp}/cbds/ownership_group.dta", replace
+
+
 
 
 
