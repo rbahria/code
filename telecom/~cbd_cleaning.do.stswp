@@ -1,6 +1,20 @@
 
 
  
+ 
+/*
+	app_tracking : Application X was a Sale on date Y
+	app_party: Party_id
+	ownership_group: Station A belongs to Group
+
+*/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ****************************************************************
 
 * 				Set up
@@ -233,9 +247,8 @@ save "${temp}/cbds/app_tracking.dta", replace
 
 
 ******************************************************************
-* 		cleaning  app_party
+* 		cleaning  app_party to link application_id to party_id
 ******************************************************************
-
 
 clear
 import delimited "${data}/cdbs_files/app_party.dat", delimiter("|") stringcols(_all) varnames(nonames) clear
@@ -275,6 +288,7 @@ rename v11 last_change_date
 
 keep application_id party_id party_type 
 destring application_id, replace
+destring party_id
 save "${temp}/cbds/app_party.dta", replace
 
 
@@ -285,7 +299,90 @@ merge m:m application_id using "${temp}/cbds/app_tracking.dta"
 
 keep if _merge == 3
 drop _merge
-save "${temp}/cbds/app_tracking.dta", replace
+destring application_id party_id, replace
 
 save "${temp}/cbds/app_tracking_party_merged.dta", replace
+
+
+******************************************************************
+* 		cleaning  party
+******************************************************************
+
+
+clear
+import delimited "${data}/cdbs_files/party.dat", delimiter("|") stringcols(_all) varnames(nonames) clear
+
+keep v1-v16
+
+rename v1 party_id
+rename v2 party_address1
+rename v3 party_address2
+rename v4 party_citizenship
+rename v5 party_city
+rename v6 party_company
+rename v7 party_country
+rename v8 party_email
+rename v9 party_fax
+rename v10 party_legal_name
+rename v11 party_name
+rename v12 party_phone
+rename v13 party_state
+rename v14 party_zip1
+rename v15 party_zip2
+rename v16 last_change_date
+
+destring party_id, replace
+drop if missing(party_id)
+
+drop if missing(trim(party_name))
+
+
+*sinclair group
+gen conglomerate = 0
+replace  conglomerate = 1 if strpos(party_name, "SINCLAIR") > 0
+tab party_name if conglomerate == 1
+
+*Nextar
+replace conglomerate = 2 if strpos(party_name, "NEXSTAR") > 0
+tab party_name if conglomerate == 2
+
+*Gray
+replace conglomerate = 3 if strpos(party_name, "GRAY TELE") > 0
+
+tab party_name if conglomerate == 3
+
+drop party_phone party_email party_citizenship 
+
+save "${temp}/cbds/party.dta", replace
+
+
+******************************************************************
+* 		cleaning  ownership_group 
+******************************************************************
+
+clear
+import delimited "${data}/cdbs_files/ownership_group.dat", delimiter("|") stringcols(_all) varnames(nonames) clear
+
+keep v1-v12
+
+rename v1 ownership_group_id
+rename v2 application_id
+rename v3 fac_callsign
+rename v4 facility_id
+rename v5 fac_service
+rename v6 comm_city
+rename v7 comm_state
+rename v8 fac_service_o
+rename v9 app_arn
+rename v10 file_prefix
+rename v11 order_number
+rename v12 last_update_date
+
+destring ownership_group_id application_id facility_id, replace
+drop order_number file_prefix
+
+
+save "${temp}/cbds/ownership_group.dta", replace
+
+
 
