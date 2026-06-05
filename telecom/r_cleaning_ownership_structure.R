@@ -193,7 +193,7 @@ for(v in paste0("X",19:50)) {
 
 
 
-#check
+#check entries of each column
 
 table(ownership_structure$X33, useNA = "ifany")
 
@@ -213,5 +213,118 @@ table(
     ownership_structure$X40 != ""
 )
 
-#If old-layout variables are populated,new-layout variables are never populated.
+#-->If old-layout variables are populated,new-layout variables are never populated.
 
+
+
+# entries with neither layout filled in
+ownership_structure %>%
+  filter(
+    (is.na(office_held) | office_held == "") &
+      (is.na(X33) | X33 == "")
+  ) %>%
+  select(1:20) %>%
+  head(20)
+
+# create a flag for neww/old table entries 
+
+
+
+# Most common values in office_held
+
+sort(table(ownership_structure$office_held),
+     decreasing = TRUE)[1:30]
+
+# Most common values in X33
+
+sort(table(ownership_structure$X33),
+     decreasing = TRUE)[1:30]
+
+
+#positional int and x33
+
+# First 30 non-empty positional_int values
+
+ownership_structure %>%
+  filter(!is.na(positional_int),
+         positional_int != "",
+         positional_int != "N/A") %>%
+  distinct(positional_int) %>%
+  slice(1:30)
+
+# First 30 non-empty X33 values
+
+ownership_structure %>%
+  filter(!is.na(X33),
+         X33 != "") %>%
+  distinct(X33) %>%
+  slice(1:30)
+
+#figuring out the X flags
+
+flag_cols <- paste0("X",22:32)
+
+sapply(
+  ownership_structure[flag_cols],
+  function(x) sum(x == "X", na.rm = TRUE)
+)
+
+for(v in paste0("X",22:32)) {
+  
+  cat("\n\n",v,"\n")
+  
+  print(
+    ownership_structure %>%
+      filter(.data[[v]] == "X") %>%
+      count(X33, sort = TRUE) %>%
+      head(10)
+  )
+  
+}
+
+
+table(ownership_structure$X34, useNA="ifany")
+ownership_structure %>%
+  filter(!is.na(X33)) %>%
+  count(X34, X33, sort=TRUE)
+
+ownership_structure %>%
+  count(X21, X34, sort = TRUE) #-> X34 not eprson/entity/
+
+
+ownership_structure %>%
+  filter(X34=="P") %>%
+  count(X33, sort=TRUE) %>%
+  print(n=30)
+
+ownership_structure %>%
+  filter(X34=="L") %>%
+  count(X33, sort=TRUE) %>%
+  print(n=30)
+
+ownership_structure %>%
+  filter(X34=="E") %>%
+  count(X33, sort=TRUE) %>%
+  print(n=30)
+
+
+#checking empty equity / interest/vote
+ownership_structure %>%
+  summarise(
+    votes_nonmissing    = sum(!is.na(votes_perc)),
+    equity_nonmissing   = sum(!is.na(equity_perc)),
+    interest_nonmissing = sum(!is.na(interest_perc))
+  )
+
+
+ownership_structure %>%
+  mutate(
+    new_schema = !is.na(X20)
+  ) %>%
+  group_by(new_schema) %>%
+  summarise(
+    n = n(),
+    votes_nonmissing    = sum(!is.na(votes_perc)),
+    equity_nonmissing   = sum(!is.na(equity_perc)),
+    interest_nonmissing = sum(!is.na(interest_perc))
+  )
